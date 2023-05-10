@@ -57,8 +57,6 @@ UXUY Token adopts the <mark style="color:green;">POL (Proof of Link)</mark> mech
 * cLg - the total number of people in the UXUY network.
 * When <mark style="color:green;">cLg >= 30 million</mark>, Rewards = 0, i.e., no new UXUY Tokens are generated when the network is built to 3<mark style="color:green;">0 million</mark>.
 
-<figure><img src="../.gitbook/assets/whitepaper_03 (1).jpg" alt=""><figcaption><p>II</p></figcaption></figure>
-
 ### III. The token burn mechanism of UXUY Token.
 
 UXUY Token is the application token of the UXUY network, which can be used for on-chain payments, transfers, social network reading, and other behaviors' on-chain fees. <mark style="color:green;">15%</mark> of on-chain revenue will be burned.
