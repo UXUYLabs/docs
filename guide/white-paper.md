@@ -55,7 +55,7 @@ UXUY Token adopts the <mark style="color:green;">POL (Proof of Link)</mark> mech
 * tsG - the project's genesis release start time.
 * cLu - the number of people who established the node.
 * cLg - the total number of people in the UXUY network.
-* When <mark style="color:green;">cLg >= 100 million</mark>, Rewards = 0, i.e., no new UXUY Tokens are generated when the network is built to <mark style="color:green;">100 million</mark>.
+* When <mark style="color:green;">cLg >= 30 million</mark>, Rewards = 0, i.e., no new UXUY Tokens are generated when the network is built to 3<mark style="color:green;">0 million</mark>.
 
 <figure><img src="../.gitbook/assets/whitepaper_03 (1).jpg" alt=""><figcaption><p>II</p></figcaption></figure>
 
