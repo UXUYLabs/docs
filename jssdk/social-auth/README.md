@@ -1,2 +1,0 @@
-# ⚖ Social-Auth
-

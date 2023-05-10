@@ -36,10 +36,11 @@
 
 ## JSSDK
 
-* [⚖ Social-Auth](jssdk/social-auth/README.md)
-  * [Quick Start](jssdk/social-auth/quick-start.md)
-  * [Method](jssdk/social-auth/method.md)
-* [🖥 For Developers](jssdk/for-developers.md)
+* [Quick Start](jssdk/quick-start.md)
+* [Minimal Example](jssdk/minimal-example.md)
+* [JS-API](jssdk/js-api/README.md)
+  * [Auth api](jssdk/js-api/auth-api.md)
+  * [Account api](jssdk/js-api/account-api.md)
 
 ## APPENDIX
 
