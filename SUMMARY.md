@@ -26,7 +26,7 @@
 * [🗺 Social Profile](api-service/social-profile.md)
   * [Recommendation](api-service/social-profile/recommendation.md)
   * [User Info](api-service/social-profile/user-info.md)
-* [🆔 UYUX.DID](api-service/uyux.did/README.md)
+* [🆔 UYUX.DID](api-service/uyux.did.md)
   * [Resolve DID Name](api-service/uyux.did/resolve-did-name.md)
   * [Reverse Resolve DID Name](api-service/uyux.did/reverse-resolve-did-name.md)
 * [🗝 MPC Account](api-service/mpc-account.md)

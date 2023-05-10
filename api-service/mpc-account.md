@@ -2,7 +2,7 @@
 
 ## <mark style="color:blue;">GET</mark> /api/v1/getUserMpcKey
 
-* Note:  acquire user mpc key. When transfer or withdrawal, user need to send this part of key to uxuy system to sign. For security, every DAPP has different mpc key.
+* Note:  acquire user mpc key. When transfer or withdrawal, user need to send this part of key to uxuy system to sign. For security, each DAPP has different mpc key.
 * Header
 
 | Field         | Type   | Remarks                                                                                           |
