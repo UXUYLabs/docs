@@ -20,7 +20,7 @@
 * Request Example
 
 ```shell
-curl GET 'https://api.uxuy.ai/api/v1/recommend?cursor=a604fdd8e80142dfaf07af11096d5150&limit=10' \
+curl GET 'https://api.uxuy.io/api/v1/recommend?cursor=a604fdd8e80142dfaf07af11096d5150&limit=10' \
 --header 'Authorization: Bearer ey1JhbGciOiJFUzI1NiJ9.eyJqdGkiOiIyYzAzYTMwZGY4NjY0Mjk5OWZlMDcwODhh1MzVhNGU0YiIsImlzcyI6InJlbGF0aW9ubGFicy5haSIsImlhdCI6MTY2MTQwNTQxOSwic3ViIjoiYmFmMzQta2lhYWEtYWFhYWstYWNnamEtY2FpIiwiZXhwIjoxNjYyMDEwMjE5fQ.1EVbUxmtVCm6aEVZtEAji1KuCM1dsZEOMExcYvT-GdKrHRQ1qzyghXsNZSdSDUAwoSe9jGV48_1zdi2Rlrylw3Q' \
 --header 'ApiKey: <ApiKey>'
 ```
@@ -42,13 +42,12 @@ The RecommendResponse field consists of the following subfields:
 
 The RecommendUser field consists of the following subfields:
 
-| Field           | Type    | Remarks                                                                                                                        |
-| --------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| relationId      | String  | User's relationId                                                                                                              |
-| name            | String  | User name                                                                                                                      |
-| avatar          | String  | User's avatar                                                                                                                  |
-| recommendReason | String  | Reason for recommendation:Following on twitterCounterparty on ethereumHolder of ${nft name}Followed by ${followingUser's name} |
-| following       | boolean | Following or not: true for following; false for not                                                                            |
+| Field           | Type   | Remarks                   |
+| --------------- | ------ | ------------------------- |
+| uxuyId          | String | User's uxuyId             |
+| name            | String | User name                 |
+| avatar          | String | User's avatar             |
+| recommendReason | String | Reason for recommendation |
 
 * Response Body
 
@@ -60,10 +59,10 @@ The RecommendUser field consists of the following subfields:
         "cursor": "a8728c5910a04c94b70e18694d72cbb0",
         "list": [
             {
-                "relationId": "aoafg-eqaaa-aaaaj-afena-cai",
+                "uxutId": "sdfaert435233ret4rgfdgdfgh",
                 "name": "test_user",
-                "avatar": "https://3fypb-gqaaa-aaaag-aaedq-cai.ic1.io/avatar/nft/eth/0xed5af388653567af2f388e6224dc7c4b3241c544/1.jpg",
-                "recommendReason": "Holder of Azuki"
+                "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLAkZDDuorBaRk7N5eFLY9z4QEsjjLaIfH5ITaAqibkfibkTalYrhh7cnoAcvl29VeAnJMALZEUhx64Q/132",
+                "recommendReason": "tags: Seaman NFT"
             },
             ...
         ]

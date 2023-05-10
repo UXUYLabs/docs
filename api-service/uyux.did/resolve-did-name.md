@@ -1,8 +1,8 @@
-# 🗝 MPC Account
+# Resolve DID Name
 
-## <mark style="color:blue;">GET</mark> /api/v1/getUserMpcKey
+## <mark style="color:blue;">GET</mark> /api/v1/getAddress
 
-* Note:  acquire user mpc key. When transfer or withdrawal, user need to send this part of key to uxuy system to sign. For security, every DAPP has different mpc key.
+* Note:  name-resolving services.
 * Header
 
 | Field         | Type   | Remarks                                                                                           |
@@ -12,14 +12,14 @@
 
 * Request Parameters
 
-| Field   | Type   | Required | Remarks               |
-| ------- | ------ | -------- | --------------------- |
-| address | String | false    | relationId or address |
+| Field | Type   | Remarks                 |
+| ----- | ------ | ----------------------- |
+| did   | string | did name, eg: jack.uxuy |
 
 * Request Example
 
 ```shell
-curl GET 'https://api.uxuy.io/api/v1/getUserMpcKey?address=0x9bd286ef4e3d9ec1af6c6ae9da2f0b3617deab13' \
+curl GET 'https://api.uxuy.io/api/v1/getAddress?did=jack.uxuy \
 --header 'Authorization: Bearer ey1JhbGciOiJFUzI1NiJ9.eyJqdGkiOiIyYzAzYTMwZGY4NjY0Mjk5OWZlMDcwODhh1MzVhNGU0YiIsImlzcyI6InJlbGF0aW9ubGFicy5haSIsImlhdCI6MTY2MTQwNTQxOSwic3ViIjoiYmFmMzQta2lhYWEtYWFhYWstYWNnamEtY2FpIiwiZXhwIjoxNjYyMDEwMjE5fQ.1EVbUxmtVCm6aEVZtEAji1KuCM1dsZEOMExcYvT-GdKrHRQ1qzyghXsNZSdSDUAwoSe9jGV48_1zdi2Rlrylw3Q' \
 --header 'ApiKey: <ApiKey>'
 ```
@@ -34,9 +34,9 @@ curl GET 'https://api.uxuy.io/api/v1/getUserMpcKey?address=0x9bd286ef4e3d9ec1af6
 
 The data field consists of the following subfields:
 
-| Field  | Type   | Remarks |
-| ------ | ------ | ------- |
-| mpcKey | String | mpc key |
+| Field   | Type   | Remarks                   |
+| ------- | ------ | ------------------------- |
+| address | String | the address of did owner  |
 
 * Response Body
 
@@ -45,7 +45,7 @@ The data field consists of the following subfields:
     "code": "200",
     "msg": "ok",
     "data": {
-        "mpcKey": "+d1dhW8iw+QdtzJO3248XDUXRIcL9R7YTU1V43IzDEghjCgf5Ht24d9m/uTGRFvX8aqpYtnt6jqXM4ezdzlmgKDNCp505p9R6Ciyz9WQut173qeY31gvPyOxtasveEz/N42"
+        "address": "0x0e35437927f8080b48124cdf89eb64CD15b934644"
     }
 }
 ```
