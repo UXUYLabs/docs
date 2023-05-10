@@ -36,8 +36,8 @@
 
 ## JSSDK
 
-* [Quick Start](jssdk/quick-start.md)
-* [Minimal Example](jssdk/minimal-example.md)
+* [Quick Start](jssdk/social-auth/quick-start.md)
+* [Minimal Example](jssdk/social-auth/method.md)
 * [JS-API](jssdk/js-api/README.md)
   * [Auth api](jssdk/js-api/auth-api.md)
   * [Account api](jssdk/js-api/account-api.md)
