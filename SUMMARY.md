@@ -22,9 +22,10 @@
 ## API SERVICE
 
 * [😃 Introducing](api-service/introducing.md)
-* [🍐 Signature](api-service/signature.md)
 * [🎊 Auth](api-service/auth.md)
-* [🗺 Social Profile](api-service/social-profile.md)
+* [🗺 Social Profile](api-service/social-profile/README.md)
+  * [Recommendation](api-service/social-profile/recommendation.md)
+  * [User Info](api-service/social-profile/user-info.md)
 * [🆔 UYUX.DID](api-service/uyux.did.md)
 * [🗝 MPC Account](api-service/mpc-account.md)
 * [😀 Abstract Account](api-service/abstract-account.md)
