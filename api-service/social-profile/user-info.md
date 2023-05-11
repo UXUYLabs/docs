@@ -34,13 +34,13 @@ curl  GET 'https://api.uxuy.io/api/v1/userInfo?address=0x9bd286ef4e3d9ec1af6c6ae
 
 The UserInfo field consists of the following subfields:
 
-| Field      | Type   | Remarks              |
-| ---------- | ------ | -------------------- |
-| name       | String | User Name            |
-| avatar     | String | User's Avatar        |
-| did        | String | User's DID           |
-| relationId | String | User's relationId    |
-| createdAt  | String | User's register time |
+| Field     | Type   | Remarks              |
+| --------- | ------ | -------------------- |
+| name      | String | User Name            |
+| avatar    | String | User's Avatar        |
+| did       | String | User's DID           |
+| uxuyId    | String | User's uxuyId        |
+| createdAt | String | User's register time |
 
 * Response Example
 

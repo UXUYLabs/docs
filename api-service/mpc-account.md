@@ -12,9 +12,9 @@
 
 * Request Parameters
 
-| Field   | Type   | Required | Remarks               |
-| ------- | ------ | -------- | --------------------- |
-| address | String | false    | relationId or address |
+| Field   | Type   | Required | Remarks           |
+| ------- | ------ | -------- | ----------------- |
+| address | String | false    | uxuyId or address |
 
 * Request Example
 
