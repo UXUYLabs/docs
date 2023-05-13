@@ -1,5 +1,12 @@
 # 🗝 MPC Account
 
+Multi-party computation (MPC) is a cryptographic tool that allows multiple parties to make calculations using their combined data, without revealing their individual input.
+
+In contrast to a standard SOA wallet account, you do not need to keep complex private keys with an MPC Wallet account, so an MPC Wallet account is also known as a Keyless wallet account.&#x20;
+
+\
+User who joins UXUY will receive an MPC wallet account, which will serve as their primary account for using UXUY.
+
 ## <mark style="color:blue;">GET</mark> /api/v1/getUserMpcKey
 
 * Note:  acquire user mpc key. When transfer or withdrawal, user need to send this part of key to uxuy system to sign. For security, each DAPP has different mpc key.

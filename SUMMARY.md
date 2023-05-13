@@ -1,7 +1,6 @@
 # Table of contents
 
-* [👋 Welcome UXUY Labs](README.md)
-* [About UXUY Labs](about-uxuy-labs.md)
+* [👋 Welcome UXUY](README.md)
 
 ## Overview <a href="#overview-readme" id="overview-readme"></a>
 
