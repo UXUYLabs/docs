@@ -8,8 +8,9 @@
 
 ## Getting started
 
-* [📚 Tutorials](getting-started/tutorials/README.md)
-  * [Step 1](getting-started/tutorials/step-1.md)
+* [📚 What 's the UXUY?](getting-started/what-s-the-uxuy.md)
+* [如何获得UXUY代币?](getting-started/ru-he-huo-de-uxuy-dai-bi.md)
+* [UXUY代币的用途?](getting-started/uxuy-dai-bi-de-yong-tu.md)
 
 ## DEVELOPER GUIDE <a href="#guide" id="guide"></a>
 
