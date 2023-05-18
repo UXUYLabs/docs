@@ -1,4 +1,7 @@
 ---
+description: >-
+  UXUY is blockchain-based social protocol that aims to protect, captalize and
+  optimize user's social assets.
 coverY: 0
 ---
 
