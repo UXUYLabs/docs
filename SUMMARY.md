@@ -9,8 +9,8 @@
 ## Getting started
 
 * [📚 What 's the UXUY?](getting-started/what-s-the-uxuy.md)
-* [How to get UXUY tokens?](getting-started/how-to-get-uxuy-tokens.md)
-* [What is the purpose of UXUY tokens?](getting-started/what-is-the-purpose-of-uxuy-tokens.md)
+* [☺ How to get UXUY tokens?](getting-started/how-to-get-uxuy-tokens.md)
+* [🦊 What is the purpose of UXUY tokens?](getting-started/what-is-the-purpose-of-uxuy-tokens.md)
 
 ## DEVELOPER GUIDE <a href="#guide" id="guide"></a>
 

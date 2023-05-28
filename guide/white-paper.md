@@ -2,32 +2,55 @@
 
 ### Introduction:
 
-The users of today's centralized social media apps do not truly own the data and value (social relationships, social data, etc.) that they create.
+Currently, when using centralized social applications, users do not truly own the <mark style="color:green;">social assets</mark> they create (such as social relationships, social data, etc.). When centralized applications change their rules, ban accounts, or stop services, users will lose all their social relationships and personal data. On the other hand, when the application product obtains commercial value from users' <mark style="color:green;">social relationships</mark> and <mark style="color:green;">social data</mark>, users cannot or can rarely benefit from it. These situations are common in the Web2 era.
 
-When centralized apps change rules, algorithms, or stop their services, users will lose all their social relationships and data, and the commercial value of social data used by the app is unrelated to users.&#x20;
 
-The <mark style="color:green;">UXUY protocol</mark> will solve this problem, helping users to own their social data through blockchain technology, and make it an asset.
 
-UXUY is committed to becoming the infrastructure of the next generation of large-scale <mark style="color:green;">Web3 social applications</mark>, UXUY is a decentralized social graph protocol with network effects.&#x20;
+The <mark style="color:green;">UXUY Social Graph Protocol</mark> aims to secure, monetize and optimize users' social assets. Through the decentralized nature of blockchain, it helps users fully own their social data sovereignty, optimize social assets, and encrypt this information on the chain. <mark style="color:green;">UXUY</mark> fully maintains the interests of decentralized users, helps users protect their social data, and monetizes them. When some DAPPs use users' social relationships and data, users will receive token rewards.
 
-The UXUY protocol uses "UXUY Token" to record users' contributions to the network constructed by the UXUY protocol.&#x20;
 
-UXUY Token adopts the <mark style="color:green;">POL (Proof of Link)</mark> mechanism, and users can obtain token rewards by building social networks on UXUY, and they can also use tokens to purchase services or applications in other scenarios.
+
+<mark style="color:green;">UXUY</mark> is committed to building the infrastructure to facilitate the next-generation large-scale <mark style="color:green;">Web3 social applications</mark>. It will be served as protocol on the blockchain, ensuring the encryption of data and the scalability of the ecosystem. We named this infrastructure protocol "<mark style="color:green;">UXUY Protocol</mark>". UXUY Protocol uses "<mark style="color:green;">UXUY Token</mark>" as an incentive token, and uses the <mark style="color:green;">POL (Proof Of Link)</mark> mechanism to record users' contributions to the entire social network. The larger and more valuable the social network built by users, the more token rewards they will receive. Tokens can also be used to purchase services in other DAPPs or in other scenarios.
 
 ### Features of the UXUY protocol:
 
-1. Supports mainstream Web2 social account login into the Web3 world. Users can create a Web3 account through Google, Twitter, or WeChat accounts, without the need for complex public/private keys, to use and experience Web3 applications, greatly improving user experience.
-2. Owns its own relationship network on the blockchain. Create your on-chain identity, <mark style="color:green;">UXUY Profile</mark>, through the UXUY protocol, as an anchor for your self-sovereign decentralized identity, and seamlessly propagate it on the internet. UXUY Profile is a Web3-native way to represent status, affiliation, and social verification.
-3. Composable. The true power of the UXUY protocol lies in its robust social network standards, which serve as the foundation for social networks in Web3 and can be combined into any Web3 application.
-4. Multi-chain support. The UXUY protocol is already deployed on <mark style="color:green;">Arbitrum</mark> and will soon support more ecosystems.
+#### Web2 directly to Web3&#x20;
 
-### I. The UXUY protocol is a plug-in identity verification infrastructure for Web3 applications.
+Users can create Web3 accounts through Google, Twitter, Wechat, etc. <mark style="color:green;">UXUY</mark> provides users with an encrypted <mark style="color:green;">MPC</mark> wallet, which can be used and experienced in Web3 applications without recording complex public and private keys, reducing the threshold for users to enter Web3, and maximizing the value of users' social accounts in Web2.
+
+#### Proprietary Profile
+
+Through the <mark style="color:green;">UXUY protocol</mark>, users can create their on-chain profile, <mark style="color:green;">UXUY Profile</mark>, as an anchor for their self-sovereign decentralized identity, seamlessly connecting and using between the Internet and blockchain DAPPs. <mark style="color:green;">UXUY Profile</mark> is a way of representing data on status, affiliation, and social verification using encrypted web3 native methods.
+
+#### Composable and Plug-and-Play
+
+The biggest technological innovation contribution of the <mark style="color:green;">UXUY protocol</mark> is the design and implementation of information storage and usage standards <mark style="color:green;">shared</mark> among DAPPs. As the foundation of social networks in Web3, it can be combined into any Web3 application, making it easier for DAPP developers to develop and obtain more Web3 users.
+
+#### Multi-Chain Support
+
+UXUY Protocol uses efficient and secure Arbitrum chain and has obtained support from Arbitrum, providing UXUY with secure and fast technical services. In addition, UXUY will continue to launch on other chains in the future, and the UXUY ecosystem will be more abundant.
+
+
+
+### Technical Architecture of the UXUY Protocol
+
+The UXUY Protocol is a pluggable identity verification infrastructure for Web3 applications.
 
 <figure><img src="../.gitbook/assets/whitepaper_01.jpg" alt=""><figcaption><p>I</p></figcaption></figure>
 
-### II. The token reward mechanism of UXUY Token.
+### UXUY Protocol TokenomicsII.&#x20;
 
-UXUY Token adopts the <mark style="color:green;">POL (Proof of Link)</mark> mechanism, which rewards contributors to the construction of the Web3 social network. Anyone can mint their own UXUY Token through their social network, and UXUY Token can be stored in an Ethereum-compatible crypto wallet. Users can earn a certain amount of UXUY Token rewards for successfully connecting to a social node. The amount of UXUY Token rewards is affected by some variables, and the formula is as follows:
+The UXUY Protocol will use a dual-token model, consisting of the Application Token (UXUY Token) and the Governance Token (UXUY Governance Token).
+
+#### 1.UXUY Application Token
+
+&#x20;1.1 UXUY Token Reward System
+
+UXUY Token does not have any pre-mined tokens and adopts a fair Proof of Link (POL) mechanism. To earn UXUY Token, anyone must contribute to the development of the Web3 social network. Users need to expand their social network by inviting other users to earn more UXUY Tokens. UXUY Tokens can be stored in an Ethereum-compatible wallet. For every successful connection of a social node (inviting one person), the user can earn a certain amount of UXUY Token rewards. The earlier the user creates their social network, the more UXUY Tokens they will receive.
+
+
+
+1.2 UXUY Token Reward Decreasing Formula
 
 {% code overflow="wrap" %}
 ```vue
@@ -35,35 +58,53 @@ UXUY Token adopts the <mark style="color:green;">POL (Proof of Link)</mark> mech
 ```
 {% endcode %}
 
-#### Explanation:
+#### Where:
 
 * TAM(ts0) = <mark style="color:green;">max(3000 - \[(ts0 - tsG)/3600\*24], 1)</mark>
 * EAR(cLg) = <mark style="color:green;">max((k/100) - 0.001 \* \[cLg / 100000], 0)</mark>
 * OG - Users holding <mark style="background-color:green;">SEAMAN NFTs</mark> are OG users, and their incentive weighting coefficient is <mark style="color:green;">120%</mark>.
-* TAM - Time amplifier, early participants' incentives.
-* EAR - Early Adopter Reward, early contributors' incentives.
-  * For networks with <mark style="color:green;">0-100,000</mark> people, the EAR incentive coefficient starts at 90%.&#x20;
-  * For networks with <mark style="color:green;">100,000-1 million</mark> people, the EAR incentive coefficient starts at 30%.&#x20;
-  * After <mark style="color:green;">1 million</mark> people, the EAR incentive coefficient drops to 10%.&#x20;
-  * And linearly decreases by <mark style="color:green;">0.1%</mark> every <mark style="color:green;">100,000</mark> people.
-  * k - EAR incentive coefficient:
+* TAM - Time amplifier, incentivizes early adopters.
+* EAR - Early Adopter Reward, incentivizes early contributors.
+  * For networks with <mark style="color:green;">0-100,000</mark> people, the EAR incentive factor starts at 90%.
+  * For networks with <mark style="color:green;">100,000-1,000,000</mark> people, the EAR incentive factor starts at 30%.
+  * After <mark style="color:green;">1,000,000</mark> people, the EAR incentive factor decreases to <mark style="color:green;">10%</mark> and decreases linearly by <mark style="color:green;">0.1%</mark> every <mark style="color:green;">100,000</mark> people.
+  * k - EAR incentive factor:
     * _<mark style="color:green;">`[cLg < 100,000, k=40].`</mark>_
-    * _<mark style="color:green;">`[10 < cLg < 1 million, k=20].`</mark>_
-    * _<mark style="color:green;">`[cLg > 1 million, k=10].`</mark>_\
+    * _<mark style="color:green;">`[10 < cLg <`</mark>_ <mark style="color:green;"></mark><mark style="color:green;">1,000,000</mark>_<mark style="color:green;">`, k=20].`</mark>_
+    * _<mark style="color:green;">`[cLg >`</mark>_ <mark style="color:green;"></mark><mark style="color:green;">1,000,000</mark>_<mark style="color:green;">`, k=10].`</mark>_\
 
 * ts0 - the current node's establishment time.
 * tsG - the project's genesis release start time.
-* cLu - the number of people who established the node.
+* cLu - the number of people who established the current node.
 * cLg - the total number of people in the UXUY network.
-* When <mark style="color:green;">cLg >= 30 million</mark>, Rewards = 0, i.e., no new UXUY Tokens are generated when the network is built to 3<mark style="color:green;">0 million</mark>.
+* When <mark style="color:green;">cLg >= 30 million</mark>, <mark style="color:green;">Rewards = 0</mark>, which means that no new UXUY Tokens will be produced once the network reaches <mark style="color:green;">30 million</mark>. At that time, the value formed by the network effect can support users and nodes to continue expanding and reach a level of billions.
 
-### III. The token burn mechanism of UXUY Token.
+The UXUY Token uses a decrement logic similar to Bitcoin's and uses a computational formula closest to Bitcoin's mining logic. The variables that decrease the Token include time, the number of people connected to a single node, and the total number of people in the UXUY network. Therefore, as time passes after the release of UXUY and the number of people in the entire UXUY network increases, the UXUY Tokens earned by users will decrease exponentially, and the later users enter the UXUY network, the fewer UXUY Tokens they will receive.
 
-UXUY Token is the application token of the UXUY network, which can be used for on-chain payments, transfers, social network reading, and other behaviors' on-chain fees. <mark style="color:green;">15%</mark> of on-chain revenue will be burned.
+
+
+1.3 UXUY Token Burn Mechanism
+
+UXUY Token is the UXUY Protocol's application token and can be used to pay for Gas fees on-chain in the UXUY ecosystem, including on-chain transactions, transfers, and social network reading. In the UXUY ecosystem, 15% of these fees will be burned.
+
+
+
+#### 2.UXUY Governance Token
+
+2.1 In the future
+
+<mark style="color:green;">UXUY</mark> will also launch a community governance token (tentatively named <mark style="color:green;">UXUY Governance Token or UGT</mark>), with the majority of the governance token allocation going to the community and a small portion going to partners, team, and investors.
 
 ### Summary:
 
-UXUY is a blockchain-based social protocol that aims to achieve a more fair, transparent, and decentralized social experience. The protocol adopts a token called "UXUY Token," which users can earn token rewards by building social network nodes under the UXUY protocol, and can also use tokens to purchase services or goods. UXUY's token reward mechanism is fair, transparent, and decentralized, and we call it the <mark style="color:green;">POL (Proof of Link)</mark> mechanism.
+<mark style="color:green;">UXUY</mark> is a blockchain-based social protocol designed to secure, monetize, and optimize users' social assets. The protocol uses a fair Proof of Link (POL) mechanism, with UXUY tokens as the reward. Users can earn rewards by building social network nodes on the UXUY protocol, and UXUY tokens can also be used to purchase other services or goods in the WEB3 world.
+
+<mark style="color:green;">UXUY</mark> is creating a new WEB3 social ecosystem, and various DAPPs will be gradually integrated into the <mark style="color:green;">UXUY protocol</mark>. In the future, the <mark style="color:green;">UXUY ecosystem</mark> will be more diverse.
 
 
 
+### FAQ:
+
+{% content-ref url="../troubleshooting/faq.md" %}
+[faq.md](../troubleshooting/faq.md)
+{% endcontent-ref %}
