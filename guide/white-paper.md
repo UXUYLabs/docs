@@ -28,13 +28,13 @@ The biggest technological innovation contribution of the <mark style="color:gree
 
 #### Multi-Chain Support
 
-UXUY Protocol uses efficient and secure Arbitrum chain and has obtained support from Arbitrum, providing UXUY with secure and fast technical services. In addition, UXUY will continue to launch on other chains in the future, and the UXUY ecosystem will be more abundant.
+<mark style="color:green;">UXUY Protocol</mark> uses efficient and secure Arbitrum chain and has obtained support from Arbitrum, providing UXUY with secure and fast technical services. In addition, UXUY will continue to launch on other chains in the future, and the UXUY ecosystem will be more abundant.
 
 
 
 ### Technical Architecture of the UXUY Protocol
 
-The UXUY Protocol is a pluggable identity verification infrastructure for Web3 applications.
+The <mark style="color:green;">UXUY Protocol</mark> is a pluggable identity verification infrastructure for Web3 applications.
 
 <figure><img src="../.gitbook/assets/whitepaper_01.jpg" alt=""><figcaption><p>I</p></figcaption></figure>
 
@@ -46,7 +46,7 @@ The UXUY Protocol will use a dual-token model, consisting of the Application Tok
 
 &#x20;1.1 UXUY Token Reward System
 
-UXUY Token does not have any pre-mined tokens and adopts a fair Proof of Link (POL) mechanism. To earn UXUY Token, anyone must contribute to the development of the Web3 social network. Users need to expand their social network by inviting other users to earn more UXUY Tokens. UXUY Tokens can be stored in an Ethereum-compatible wallet. For every successful connection of a social node (inviting one person), the user can earn a certain amount of UXUY Token rewards. The earlier the user creates their social network, the more UXUY Tokens they will receive.
+<mark style="color:green;">UXUY Token</mark> does not have any pre-mined tokens and adopts a fair <mark style="color:green;">Proof of Link (POL)</mark> mechanism. To earn UXUY Token, anyone must contribute to the development of the Web3 social network. Users need to expand their social network by inviting other users to earn more UXUY Tokens. UXUY Tokens can be stored in an Ethereum-compatible wallet. For every successful connection of a social node (inviting one person), the user can earn a certain amount of UXUY Token rewards. The earlier the user creates their social network, the more UXUY Tokens they will receive.
 
 
 
@@ -79,13 +79,13 @@ UXUY Token does not have any pre-mined tokens and adopts a fair Proof of Link (P
 * cLg - the total number of people in the UXUY network.
 * When <mark style="color:green;">cLg >= 30 million</mark>, <mark style="color:green;">Rewards = 0</mark>, which means that no new UXUY Tokens will be produced once the network reaches <mark style="color:green;">30 million</mark>. At that time, the value formed by the network effect can support users and nodes to continue expanding and reach a level of billions.
 
-The UXUY Token uses a decrement logic similar to Bitcoin's and uses a computational formula closest to Bitcoin's mining logic. The variables that decrease the Token include time, the number of people connected to a single node, and the total number of people in the UXUY network. Therefore, as time passes after the release of UXUY and the number of people in the entire UXUY network increases, the UXUY Tokens earned by users will decrease exponentially, and the later users enter the UXUY network, the fewer UXUY Tokens they will receive.
+The <mark style="color:green;">UXUY Token</mark> uses a decrement logic similar to Bitcoin's and uses a computational formula closest to Bitcoin's mining logic. The variables that decrease the Token include time, the number of people connected to a single node, and the total number of people in the <mark style="color:green;">UXUY network</mark>. Therefore, as time passes after the release of <mark style="color:green;">UXUY</mark> and the number of people in the entire <mark style="color:green;">UXUY network</mark> increases, the <mark style="color:green;">UXUY Tokens</mark> earned by users will decrease exponentially, and the later users enter the <mark style="color:green;">UXUY network</mark>, the fewer <mark style="color:green;">UXUY Tokens</mark> they will receive.
 
 
 
 1.3 UXUY Token Burn Mechanism
 
-UXUY Token is the UXUY Protocol's application token and can be used to pay for Gas fees on-chain in the UXUY ecosystem, including on-chain transactions, transfers, and social network reading. In the UXUY ecosystem, 15% of these fees will be burned.
+UXUY Token is the UXUY Protocol's application token and can be used to pay for Gas fees on-chain in the UXUY ecosystem, including on-chain transactions, transfers, and social network reading. In the UXUY ecosystem, <mark style="color:green;">15%</mark> of these fees will be burned.
 
 
 
