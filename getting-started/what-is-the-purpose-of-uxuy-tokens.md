@@ -1,4 +1,4 @@
-# What is the purpose of UXUY tokens?
+# 🦊 What is the purpose of UXUY tokens?
 
 
 

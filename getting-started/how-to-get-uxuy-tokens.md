@@ -1,4 +1,4 @@
-# How to get UXUY tokens?
+# ☺ How to get UXUY tokens?
 
 
 
