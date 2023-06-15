@@ -17,6 +17,7 @@
 * [🍊 Service-Api](guide/service-api.md)
 * [🥂 JS-SDK](guide/js-sdk.md)
 * [📰 White Paper](guide/white-paper.md)
+* [White Paper(Indonisia)](guide/white-paper-indonisia.md)
 * [🥰 Integration Partners](guide/integration-partners.md)
 
 ## API SERVICE
