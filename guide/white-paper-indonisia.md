@@ -36,7 +36,11 @@ Protokol UXUY menggunakan jaringan Arbitrum yang efisien dan aman, dan telah men
 
 Protokol UXUY adalah infrastruktur otentikasi yang dapat disisipkan untuk aplikasi Web3.
 
-<figure><img src="../.gitbook/assets/whitepaper_01.jpg" alt=""><figcaption><p>I</p></figcaption></figure>
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/34541687657366_.pic.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Tokenomics UXUY Protokol
 

@@ -36,7 +36,11 @@ The biggest technological innovation contribution of the <mark style="color:gree
 
 The <mark style="color:green;">UXUY Protocol</mark> is a pluggable identity verification infrastructure for Web3 applications.
 
-<figure><img src="../.gitbook/assets/whitepaper_01.jpg" alt=""><figcaption><p>I</p></figcaption></figure>
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/34541687657366_.pic.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### UXUY Protocol TokenomicsII.&#x20;
 
