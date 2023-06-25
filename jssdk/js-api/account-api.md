@@ -8,7 +8,9 @@ description: 在引用一下api需要获取到token，否则会出现错误提�
 
 #### getUserInfo(userid:string)
 
-> #### 获取个人用户信息
+> ```
+> Obtain personal user information
+> ```
 
 ```typescript
 account.getUserInfo('userid')
@@ -18,7 +20,9 @@ account.getUserInfo('userid')
 
 #### updateUserInfo(userName: string, userAvatar: string, userGender: number)
 
-> #### 更新用户个人信息
+> ```
+> Update user personal information
+> ```
 
 ```typescript
 account.updateUserInfo('username', 'userAvatarUrl', 0)
@@ -34,7 +38,9 @@ account.updateUserInfo('username', 'userAvatarUrl', 0)
 
 #### usetSocialRelationList( pageNum: string, pageSize: string )
 
-> 获取个人的好友列表
+> ```
+> Get a personal friend list
+> ```
 
 ```typescript
 account.updateUserInfo(1, 20)
@@ -49,7 +55,9 @@ account.updateUserInfo(1, 20)
 
 #### assetsShow()
 
-> 获取个人资产（UXUY）
+> ```
+> Acquire personal assets（UXUY）
+> ```
 
 ```typescript
 account.assetsShow()
@@ -69,27 +77,31 @@ account.claimToken()
 
 #### getAccountRecord( pageNum: string,  pageSize: string  )
 
-> UXUY 操作列表
+> ```
+> UXUY action list
+> ```
 
 ```typescript
 account.getAccountRecord(1,20)
 ```
 
-| **Parameter** | **Type** | **Description** | **Default** |
-| ------------- | -------- | --------------- | ----------- |
-| pageNum       | string   | 当前页数            | 1           |
-| pageSize      | string   | 列表数量            | 10          |
+| **Parameter** | **Type** | **Description**     | **Default** |
+| ------------- | -------- | ------------------- | ----------- |
+| pageNum       | string   | current list number | 1           |
+| pageSize      | string   | list item number    | 10          |
 
 
 
 #### getRecordDetail(assetClaimId: string)
 
-> UXUY 操作列表明细
+> ```
+> UXUY action list details
+> ```
 
 ```typescript
 account.getRecordDetail({assetClaimId:''})
 ```
 
-| **Parameter** | **Type** | **Description** | **Default** |
-| ------------- | -------- | --------------- | ----------- |
-| assetClaimId  | string   | 单个历史明细 Id       |             |
+| **Parameter** | **Type** | **Description**           | **Default** |
+| ------------- | -------- | ------------------------- | ----------- |
+| assetClaimId  | string   | single history detail  Id |             |
