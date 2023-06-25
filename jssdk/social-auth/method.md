@@ -6,7 +6,9 @@ description: A little example of using uxuy-js-sdk
 
 #### Connecting to UXUYAuth
 
-通过调用我们提供的登录方式，就可以快速获取到token，目前支持微信和 telegram 2中方式
+```
+By calling the login method we provide, you can quickly get the token, which currently supports WeChat and telegram 2 methods
+```
 
 #### 用微信登录授权
 
@@ -19,7 +21,9 @@ await auth.connectTo(interfaces.LoginAuthType.wx, AppID, redirectUri, state);
 ```
 
 {% hint style="info" %}
-微信登录会redirectUri 会返回 code，当我们获取到 code 的时候，则能获取到 UXUY 需要的token
+```
+WeChat login will redirectUri will return the code, when we get the code, we can get the token required by UXUY
+```
 {% endhint %}
 
 ```typescript
@@ -29,9 +33,11 @@ const uxuyToken = await auth.toWX(code);
 const { account } = new UXUY.init(uxuyToken,apikey)
 ```
 
-### 使用 Telegram 登录
+### Login with Telegram&#x20;
 
 {% hint style="info" %}
-如果你使用机器人API 开发，请对接我们提供的 API
+<pre><code><strong>If you use the robot API to develop, please connect with the API we provide
+</strong></code></pre>
 {% endhint %}
 
+coming soon
