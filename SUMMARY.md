@@ -17,12 +17,11 @@
 * [🍊 Service-Api](guide/service-api.md)
 * [🥂 JS-SDK](guide/js-sdk.md)
 * [📰 White Paper](guide/white-paper.md)
-* [White Paper(Indonisia)](guide/white-paper-indonisia.md)
+* [🇮🇳 White Paper(Indonisia)](guide/white-paper-indonisia.md)
 * [🥰 Integration Partners](guide/integration-partners.md)
 
 ## API SERVICE
 
-* [😃 Introducing](api-service/introducing.md)
 * [🎊 Auth](api-service/auth.md)
 * [🗺 Social Profile](api-service/social-profile.md)
   * [Recommendation](api-service/social-profile/recommendation.md)
@@ -43,12 +42,6 @@
   * [Auth api](jssdk/js-api/auth-api.md)
   * [Account api](jssdk/js-api/account-api.md)
 
-## APPENDIX
-
-* [Error Code](appendix/error-code.md)
-* [Contract Address](appendix/contract-address.md)
-
 ## Troubleshooting
 
-* [💬 ChangeLog](troubleshooting/changelog.md)
 * [📠 FAQ](troubleshooting/faq.md)
