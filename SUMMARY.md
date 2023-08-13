@@ -5,6 +5,7 @@
 ## Overview <a href="#overview-readme" id="overview-readme"></a>
 
 * [💡 UXUY Protocol](overview-readme/uxuy-protocol.md)
+* [📰 White Paper(Alpha Version)](overview-readme/white-paper-alpha-version.md)
 
 ## Getting started
 
@@ -16,7 +17,6 @@
 
 * [🍊 Service-Api](guide/service-api.md)
 * [🥂 JS-SDK](guide/js-sdk.md)
-* [📰 White Paper(Alpha Version)](guide/white-paper-alpha-version.md)
 * [🥰 Integration Partners](guide/integration-partners.md)
 
 ## API SERVICE
