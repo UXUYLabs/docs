@@ -190,9 +190,26 @@ The $UXGT release according to the total number of users; time axis is an indire
 
 ### Summary:
 
-<mark style="color:green;">UXUY</mark> is a blockchain-based social protocol designed to secure, monetize, and optimize users' social assets. The protocol uses a fair Proof of Link (POL) mechanism, with UXUY tokens as the reward. Users can earn rewards by building social network nodes on the UXUY protocol, and UXUY tokens can also be used to purchase other services or goods in the WEB3 world.
+UXUY is a trusted social protocol for managing assets. As more users join and actively participate, UXUY is evolving into a network that truly belongs to each individual user. Ultimately, it will serve as a crucial social infrastructure for both users and developers.
 
-<mark style="color:green;">UXUY</mark> is creating a new WEB3 social ecosystem, and various DAPPs will be gradually integrated into the <mark style="color:green;">UXUY protocol</mark>. In the future, the <mark style="color:green;">UXUY ecosystem</mark> will be more diverse.
+Three characters distinguish UXUY from other social protocols:
+
+* UXUY combines real-world, acquaintances’ social connections with blockchain technology to enhance to trust of the web world.
+* Core features and functions are more suitable for assets, finance, and trading, to fulfill the purpose of inclusive finance.
+* Dual-token model to strike a balance among simplicity, fairness, and efficiency, and maximize the value of our community.
+
+We cannot emphasize enough that UXUY is truly community owned and community driven. The community is supported by renowned investors, has many talents builders, and expands into several markets. The future will undoubtedly be shaped by our powerful UXUY community.
+
+
+
+***
+
+## Change log:
+
+* 2023 May：Alpha version 1, stated goals, features, utility tokens
+* 2023 Aug：Alpha version 2, updated user scenarios and revenue models, proposed governance tokens
+
+Our community reserve the rights to further update the whitepaper along with the development of the project and community. We welcome and appreciate any feedbacks and suggestions as always.
 
 
 
