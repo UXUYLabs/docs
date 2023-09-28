@@ -2,83 +2,79 @@
 
 ### Abstract:
 
-UXUY is a block-chain based social protocol for assets, with the vision to be a trusted infrastructure product for mass adoption of inclusive finance and trading. There are three goals of UXUY:
+UXUY is a block-chain based social system to build and trade on-chain assets socially, with the vision to be a trusted infrastructure product for mass adoption of inclusive finance and trading. There are three goals of UXUY:
 
 * To serve as a trusted, value creating infrastructure product to enhance the trust of the entire web world, with a focus on the financing and trading areas.
 * To cater to both Web3 and Web2 users, facilitating mass adoption, serving 100 million users.
 * To establish fair and rewarding social-nomics and community.
 
-The major features of UXUY include MPC-based UXWallet, Integrated DID, Zero Knowledge powered Social Profile, Plug-and-Play Composability, Multi-chains Supports, and associated other features. All the features are designed under the philosophy of user sovereignty, inclusion for users and developers, and synergize with real-world connections.
+UXUY has two layers: UXUY Protocol layer includes contracts, multi-chain supports, and on-chain social graph; UX Dapps layer includes UX Invite, UX Wallet, UX DID/Profile, UX Group and associated other Dapps. All the features are designed under the philosophy of user sovereignty, inclusion for users and developers, and synergize with real-world connections. On top of the two layers, with API and SKP, developers can build other Dapps and partners can utilize the data with users' approval.
 
-Once users are connected by the protocol, UXUY will be the infrastructure of social and socialized financing and trading. UXUY will enable users to secure and monetize their social assets, bringing in various Dapps such as game, marketing tools; UXUY will also integrate inclusive finance and trading functions and Dapps, offering useful and affordable services for people in need.
+<mark style="color:yellow;">Users, connected by UX Invite, can create UX DID and UX Wallet, and continue to form their own social graph on chain. Users can also engage with rich Dapps in the ecosystem. And these processes can be deployed by individual or in group.</mark>
 
 UXUY adopt a dual-token economics to strike a balance among simplicity, fairness, and effectiveness.
 
 ### 1.Real life problems we are facing: ownership, trust and inclusive finance
 
-#### 1.1 Lack of clarity in social data ownership, although social data and networks are valuable and irreplaceable assets for all
+#### 1.1 Lack of clarity in social data ownership, although social data and networks are valuable and irreplaceable assets for all mankind.
 
 Ownership is the foundation of value sharing. Web2 users generate a significant amount of data, but they own and benefit little from centralized web world. The data ownership issue also prevents developers from bootstrapping innovative products and features. Developers need users’ connections to initiate network effects, but the lack of accessible and composable data which should be owned by the users.
 
 #### 1.2 Trust is still one of biggest concerns for web3 users.
 
-Despite blockchain technology being designed to address trust issues in the web world, rug pulls continue to occur very often. This is partially caused by the anonymous mechanism.
+Despite blockchain technology being designed to address trust issues in the web world, rug pulls continue to occur very often. This is partially caused by the anonymous mechanism. And we believe social graph and socialized interaction can improve trust, creating trustless enviroment.
 
 #### 1.3 Huge groups of people are still underserved financially, inclusive finance is in need.
 
-According to the 2021 World Bank Global Findex, more than 20% of adults (age 15+) are unbanked, not to mention other financial services.Block-chain technology, born to solve finance problems, may help people earn, protect themselves in times of crisis, and to build financial health and resilience.
+According to the 2021 World Bank Global Findex, more than 20% of adults (age 15+) are unbanked, not to mention other financial services. Block-chain technology, born to solve finance problems, may help people earn, protect themselves in times of crisis, and to build financial health and resilience.
 
-## 2.UXUY protocol and networks are the solutions to the issues
+## 2.UXUY system is the solutions to the issues
 
-To overcome the stated issues, we are creating a mid-layer, infrastructure for users and developers, where users can truly own and thus benefit from their social assets; developers can build useful applications and features, while leveraging pre-existing real world social connections among users to grow their audiences.
-
-
+<mark style="color:yellow;">To overcome the stated issues, we are creating a series of protocol and Dapps for users and developers, where users can truly own their social assets and trade, invest their assets socially in a more trusted and socialized environment.</mark>
 
 ### 2.1 Design philosophy and principles
 
 While UXUY is evolving, we formed below 3 core principles and philosophy as the guidelines:
 
-**User sovereignty first.** User sovereignty includes users having ownership and control over online identities, social connections, social data, with data privacy protection.
+**User sovereignty first.** User sovereignty includes users having ownership and control over online identities, social connections, social data, with data privacy protection.&#x20;
 
 **Inclusion for users and developers.** For users, we create and choose friendly products and technology for both web2 and web3 environments; for developers, we provide completely open-sourced, easy programmed infrastructure that Dapps can be easily integrated wit. Inclusion leads to scalability.
 
 **Synergize with real-world connections.** We do believe real world connections represent and reflect an individual's reputation, credibility, and values. This fills a key gap that has been missing so far in the blockchains and token-powered protocols.
 
-### 2.2 Major features and functions
-
-#### UXWallet, based on MPC (Multi-Party Computation)
-
-**Integrated DID, web2 directly to web3.** Users can create Web3 accounts through Telegram, WhatsApp, etc,, reducing the threshold for users to enter Web3. Web3 DIDs reflect and capture users’ existing real-world connections
-
-**Social Profile, By ZK (Zero-knowledge proof) technology.** Users own and utilize their self-sovereign identities (SSI) and social relationships with privacy protection, UXUY Profile is a way of representing data on status, affiliation, and social verification using encrypted web3 native methods.
-
-**Plug-and-Play composability.** UXUY protocol is to design and implement information storage and usage standards shared among DAPPs.
-
-**Multi-chains Support.** UXUY Protocol uses an efficient and secure Arbitrum chain for now, providing UXUY with secure and low-cost technical services. In the future, UXUY will continue to launch on other chains.
+### 2.2 Major features and functions - UX Dapps
 
 
 
-### 2.3 Technical Architecture of UXUY protocol
+**UX Invite:** UX Invite is light Dapp with link to earn mechanism for users to build their on chain social graph.
 
-The UXUY Protocol is a pluggable identity verification infrastructure for Web3 applications.
+**UX Wallet:** based on MPC and will be enhanced by Account Abstraction technology. Major advantages include private key social recovery, fund custody, and automatic executions to better strike the balance between safety and simplicity.
 
-<div data-full-width="true">
+**UX DID/Profile:** Users can create Web3 accounts through Telegram, WhatsApp, etc,, reducing the threshold for users to enter Web3. Web3 DIDs reflect and capture users’ existing real-world connections, and thus reflect the real-world credibility. Profile. By ZK (Zero-knowledge proof) technology, users own and utilize their self-sovereign identities (SSI) and social relationships with privacy protection.
 
-<figure><img src="../.gitbook/assets/34541687657366_.pic.jpg" alt=""><figcaption></figcaption></figure>
+**UX Group:** this is unique decentralized features created by UXUY. UX Group is a new way for social interactions and users expansions.
 
-</div>
+### 2.3 UXUY protocol
 
-## 3.Usage scenarios
+**UXUY protocol is more for developers. The protocol is on** <mark style="color:yellow;">Arbitrum chain for now, providing UXUY with secure and low-cost technical services. In the future, UXUY will continue to launch on other chains</mark>, supporting multi-chain. API and SDKs are provided to developers and partners.
 
-The usage scenarios are 3 layers, taking a user named Alex as an example:
+### 2.4 Other Rich Dapps under developing.&#x20;
 
-### 3.1 Alex uses UXUY protocol to create his networks in web3, wallets, DIDs, profiles, forming his social assets.
+**AI GroupKit Bot:** A decentralized AI Dapp for individuals and projects to build and manage their community. The bot is suitable for Telegram system,
 
-### 3.2 Alex monetize his social networks by providing traffic, data and engagement, such as social games, social marketing, fission for Dapps; on the other hand, Dapps leverage Alex' networks to gain new audiences or engagement while rewarding Alex.
+**PartyBot:** A social trading Dapp for users to conduct socialized trading and investments, including follow buy, group buy, just like a game.
 
-### 3.3 Alex can engage socialized finance and trading, such as swap, light investment, borrowing, payments, credit, and insurance, in a safer and friendly environment, to achieve better returns.
+## <mark style="color:yellow;">3.Usage scenarios</mark>
 
+<mark style="color:yellow;">Let us go through one user's journey, his name is Alex:</mark>
 
+<mark style="color:yellow;">3.1 Alex uses UXUY protocol to create his networks in web3, wallets, DIDs, profiles, forming his social assets. Alex can manage and engage his social networks in both Web3 and Web2 settings.</mark>
+
+<mark style="color:yellow;">3.2. Alex monetizes his social networks by providing traffic, data and engagement, such as social games, social marketing, fission for Dapps; on the other hand, Dapps leverage Alex' networks to gain new audiences or engagement while rewarding Alex.</mark>
+
+<mark style="color:yellow;">3.3 Alex can engage socialized finance and trading, such as swap, light investment, borrowing, payments, credit, and insurance, in a safer and friendly environment, to achieve better returns.</mark>
+
+<mark style="color:yellow;">3.4 More importantly, Alex can play a leader role in group activities to influence other users and get more incentives.</mark>
 
 ## 4. Revenue Model
 
@@ -86,15 +82,20 @@ In principle, users, rather than UXUY, owners the networks and the data associat
 
 The revenue source for UXUY are three folds:
 
-* Gas fee: There are data owners, and data demanders. If there is data movement, UXUY change certain % of fee as "gas". If Dapps generate revenue in the network, UXUY also changes certain % of fees.
+* <mark style="color:yellow;">Gas fee: There are data owners, and data demanders. If there is data movement, UXUY change certain % of fee as "gas". If Dapps generate revenue in the network, UXUY also changes certain % of fees.</mark>
 * Service fee: if partners (Dapp creators) need help from community to attract new audiences, service fee may be charged.
-* Product sell: community or project may advanced tools or unique identifications such as NFTs
+* Product sell: community or project may advance tools or unique identifications such as NFTs
+* Commission fee: UXUY will charge certain % of commission fee on socialized trading Dapps.
 
-The tokens received include $UXUY and other cryptos. The revenue will be used for community development and tokens price management.
+The tokens received include $UXUY and other cryptos.
+
+The revenue will be used for community development and tokens price management.
 
 ## 5. Token Economics
 
-UXUY Protocol apply a dual-token model, consisting of the protocol’s native utility tokens (UXUY token, $UXUY) and governance tokens (UXUY governance tokens, $UXGT). The dual-token model provides a framework of governance and development of our community and ecosystem, while maximizing the transparency and fairness
+UXUY Protocol apply a dual-token model, consisting of the protocol’s native utility tokens (UXUY token, $UXUY) and governance tokens (UXUY governance tokens, $UXGT).
+
+The dual-token model provides a framework of governance and development of our community and ecosystem, while maximizing the transparency and fairness.
 
 ### 5.1 UXUY Utility Tokens ($UXUY)
 
@@ -133,9 +134,7 @@ The <mark style="color:green;">UXUY Token</mark> uses a decrement logic similar 
 
 #### 5.1.2 UXUY Token Burn Mechanism
 
-UXUY Token is the UXUY Protocol's application token and can be used to pay for Gas fees on-chain in the UXUY ecosystem, including on-chain transactions, transfers, and social network reading. In the UXUY ecosystem, <mark style="color:green;">【15%】</mark>of these fees will be burned.
-
-
+<mark style="color:yellow;">UXUY Token is the UXUY Protocol's application token and can be used to pay for Gas fees on-chain in the UXUY ecosystem, including on-chain transactions, transfers, and social network reading. In the UXUY ecosystem, 【15%】 of these fees will be burned.</mark>
 
 ### 5.2 $UXGT, UXUY Governance tokens
 
@@ -170,8 +169,6 @@ Please note the starting point is upon listing, not TGE
 
 Below is the indicative maximized supply of UXGT since listing in 16 quarters, 4 years.
 
-
-
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 notes:
@@ -181,18 +178,19 @@ notes:
 
 #### 5.2.3 The total supply of $UXGT to community
 
-The total supply of $UXGT to community is directly related to the POW/POL of users and various builders, and thus shows positive correlation with the total numbers of users. According to our utility tokens generation formular: the maximized potential supply will occur when the total qualified users achieve 30,000,000; the networks' utility and gravity can support growth without a reward system beyond 30,000,000 users.
+The total supply of $UXGT to community is directly related to the POW/POL of users and various builders, and thus shows positive correlation with the total numbers of users. According to our utility tokens generation formular: the maximized potential supply will occur when the total qualified users achieve 30,000,000; the networks' utility and gravity can support growth without a reward system beyond 30,000,000 users.&#x20;
 
 The $UXGT release according to the total number of users; time axis is an indirect factor, indicating that:
 
 * If total number of users reaches 30,000,000 earlier than scheduled, more $UXGT will be release earlier.
 * If the total number of users reaches 30,000,000 later than scheduled, the maximized supply will take longer time to released.
+* If the total number of users cannot achieve 30,000,000 users, the total supply will not reach the max supply at all. As a result, the total supply would not reach the max-supply of 1,000,000,000.
 
 ### Summary:
 
-UXUY is a trusted social protocol for managing assets. As more users join and actively participate, UXUY is evolving into a network that truly belongs to each individual user. Ultimately, it will serve as a crucial social infrastructure for both users and developers.
+UXUY is social system includes social protocol and a series of Dapps for trading. As more users join and actively participate, UXUY will evolve into a network consist of social graph, relationships and socialized trading tools.
 
-Three characters distinguish UXUY from other social protocols:
+Three characters distinguish UXUY from other social protocols and Dapps:
 
 * UXUY combines real-world, acquaintances’ social connections with blockchain technology to enhance to trust of the web world.
 * Core features and functions are more suitable for assets, finance, and trading, to fulfill the purpose of inclusive finance.
@@ -208,6 +206,7 @@ We cannot emphasize enough that UXUY is truly community owned and community driv
 
 * 2023 May：Alpha version 1, stated goals, features, utility tokens
 * 2023 Aug：Alpha version 2, updated user scenarios and revenue models, proposed governance tokens
+* <mark style="color:yellow;">2023 Sep: Alpha version3, updated more user scenarios</mark>
 
 Our community reserve the rights to further update the whitepaper along with the development of the project and community. We welcome and appreciate any feedbacks and suggestions as always.
 
