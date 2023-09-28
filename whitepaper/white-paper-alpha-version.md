@@ -212,6 +212,8 @@ Our community reserve the rights to further update the whitepaper along with the
 
 
 
+[website](https://www.uxuy.io/)/[twitter](https://twitter.com/UxUyOfficial)/[telegram](https://t.me/uxuyprotocolWW)
+
 ### FAQ:
 
 {% content-ref url="../troubleshooting/faq.md" %}

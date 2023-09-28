@@ -2,10 +2,9 @@
 
 * [👋 Welcome UXUY](README.md)
 
-## Overview <a href="#overview-readme" id="overview-readme"></a>
+## White Paper <a href="#whitepaper" id="whitepaper"></a>
 
-* [💡 UXUY Protocol](overview-readme/uxuy-protocol.md)
-* [📰 White Paper(Alpha Version)](overview-readme/white-paper-alpha-version.md)
+* [📰 White Paper(Alpha Version)](whitepaper/white-paper-alpha-version.md)
 
 ## Getting started
 
