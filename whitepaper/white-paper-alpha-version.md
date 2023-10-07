@@ -22,7 +22,7 @@ Ownership is the foundation of value sharing. Web2 users generate a significant 
 
 #### 1.2 Trust is still one of biggest concerns for web3 users.
 
-Despite blockchain technology being designed to address trust issues in the web world, rug pulls continue to occur very often. This is partially caused by the anonymous mechanism. And we believe social graph and socialized interaction can improve trust, creating trustless enviroment.
+Despite blockchain technology being designed to address trust issues in the web world, rug pulls continue to occur very often. This is partially caused by the anonymous mechanism. And we believe social graph and socialized interaction can improve trust, creating trustless environment.
 
 #### 1.3 Huge groups of people are still underserved financially, inclusive finance is in need.
 
