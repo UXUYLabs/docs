@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome UXUY](README.md)
+* [👋 Welcome UXLINK](README.md)
 
 ## White Paper <a href="#whitepaper" id="whitepaper"></a>
 
@@ -18,9 +18,9 @@
 * [🗺 Social Profile](api-service/social-profile.md)
   * [Recommendation](api-service/social-profile/recommendation.md)
   * [User Info](api-service/social-profile/user-info.md)
-* [🆔 UXUY.DID](api-service/uxuy.did/README.md)
-  * [Resolve DID Name](api-service/uxuy.did/resolve-did-name.md)
-  * [Reverse Resolve DID Name](api-service/uxuy.did/reverse-resolve-did-name.md)
+* [🆔 UXLINK.DID](api-service/uxlink.did/README.md)
+  * [Resolve DID Name](api-service/uxlink.did/resolve-did-name.md)
+  * [Reverse Resolve DID Name](api-service/uxlink.did/reverse-resolve-did-name.md)
 * [🗝 MPC Account](api-service/mpc-account.md)
 * [😀 Abstract Account](api-service/abstract-account.md)
 * [🌭 DID Transfer](api-service/did-transfer.md)

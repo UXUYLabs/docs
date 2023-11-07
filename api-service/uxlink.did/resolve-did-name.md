@@ -19,7 +19,7 @@
 * Request Example
 
 ```shell
-curl GET 'https://api.uxuy.io/api/v1/getAddress?did=jack.uxuy \
+curl GET 'https://api.uxlink.io/api/v1/getAddress?did=jack.uxuy \
 --header 'Authorization: Bearer ey1JhbGciOiJFUzI1NiJ9.eyJqdGkiOiIyYzAzYTMwZGY4NjY0Mjk5OWZlMDcwODhh1MzVhNGU0YiIsImlzcyI6InJlbGF0aW9ubGFicy5haSIsImlhdCI6MTY2MTQwNTQxOSwic3ViIjoiYmFmMzQta2lhYWEtYWFhYWstYWNnamEtY2FpIiwiZXhwIjoxNjYyMDEwMjE5fQ.1EVbUxmtVCm6aEVZtEAji1KuCM1dsZEOMExcYvT-GdKrHRQ1qzyghXsNZSdSDUAwoSe9jGV48_1zdi2Rlrylw3Q' \
 --header 'ApiKey: <ApiKey>'
 ```

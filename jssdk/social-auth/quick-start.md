@@ -6,20 +6,20 @@ Using npm:
 
 ```javascript
 // 
-$ npm install uxuy-js-sdk
+$ npm install uxlink-js-sdk
 ```
 
 Using yarn:
 
 ```
-$ yarn add uxuy-js-sdk
+$ yarn add uxlink-js-sdk
 ```
 
 ### import
 
-&#x20;import  <mark style="background-color:green;">uxuy-js-sdk</mark> library with the following statement:
+&#x20;import  <mark style="background-color:green;">uxlink-js-sdk</mark> library with the following statement:
 
 ```javascript
 // 
-import UXUY from "uxuy-js-sdk"
+import uxlink from "uxlink-js-sdk"
 ```

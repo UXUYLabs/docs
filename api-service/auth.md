@@ -13,7 +13,7 @@
 
 ```shell
 POST /api/v1/auth
-curl  POST 'https://api.uxuy.io/api/v1/auth' \
+curl  POST 'https://api.uxlink.io/api/v1/auth' \
 --header 'ApiKey: <ApiKey>' 
 ```
 

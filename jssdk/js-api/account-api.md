@@ -78,7 +78,7 @@ account.claimToken()
 #### getAccountRecord( pageNum: string,  pageSize: string  )
 
 > ```
-> UXUY action list
+> UXLINK action list
 > ```
 
 ```typescript

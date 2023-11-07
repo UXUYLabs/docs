@@ -5,7 +5,7 @@ Multi-party computation (MPC) is a cryptographic tool that allows multiple parti
 In contrast to a standard SOA wallet account, you do not need to keep complex private keys with an MPC Wallet account, so an MPC Wallet account is also known as a Keyless wallet account.&#x20;
 
 \
-User who joins UXUY will receive an MPC wallet account, which will serve as their primary account for using UXUY.
+User who joins UXLINK will receive an MPC wallet account, which will serve as their primary account for using UXLINK.
 
 ## <mark style="color:blue;">GET</mark> /api/v1/getUserMpcKey
 
@@ -26,7 +26,7 @@ User who joins UXUY will receive an MPC wallet account, which will serve as thei
 * Request Example
 
 ```shell
-curl GET 'https://api.uxuy.io/api/v1/getUserMpcKey?address=0x9bd286ef4e3d9ec1af6c6ae9da2f0b3617deab13' \
+curl GET 'https://api.uxlink.io/api/v1/getUserMpcKey?address=0x9bd286ef4e3d9ec1af6c6ae9da2f0b3617deab13' \
 --header 'Authorization: Bearer ey1JhbGciOiJFUzI1NiJ9.eyJqdGkiOiIyYzAzYTMwZGY4NjY0Mjk5OWZlMDcwODhh1MzVhNGU0YiIsImlzcyI6InJlbGF0aW9ubGFicy5haSIsImlhdCI6MTY2MTQwNTQxOSwic3ViIjoiYmFmMzQta2lhYWEtYWFhYWstYWNnamEtY2FpIiwiZXhwIjoxNjYyMDEwMjE5fQ.1EVbUxmtVCm6aEVZtEAji1KuCM1dsZEOMExcYvT-GdKrHRQ1qzyghXsNZSdSDUAwoSe9jGV48_1zdi2Rlrylw3Q' \
 --header 'ApiKey: <ApiKey>'
 ```
