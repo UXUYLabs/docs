@@ -8,7 +8,7 @@ No, UXUY tokens were not initially minted. UXUY tokens are generated through the
 
 ## Will UXUY tokens be infinitely minted?
 
-No, UXUY tokens will not be infinitely minted. The speed of UXUY token generation will decrease exponentially as the number of people in the UXUY network increases over time. When the number of people in the UXUY network reaches 30 million (the number of Bitcoin holding addresses), token generation will stop completely. The data model estimates that there will be a total of about 4 billion UXUY tokens. Additionally, UXUY tokens have a burning mechanism, so UXUY will enter a deflationary state in the future.
+No, UXUY tokens will not be infinitely minted. The speed of UXUY token generation will decrease exponentially as the number of people in the UXLINK network increases over time. When the number of people in the UXLINK network reaches 30 million (the number of Bitcoin holding addresses), token generation will stop completely. The data model estimates that there will be a total of about 4 billion UXUY tokens. Additionally, UXUY tokens have a burning mechanism, so UXLINK will enter a deflationary state in the future.
 
 
 
@@ -24,6 +24,6 @@ There are two ways to earn UXUY tokens: 1. Invite more friends to join your soci
 
 
 
-## What can I do in the UXUY ecosystem?
+## What can I do in the UXLINK ecosystem?
 
-You can invite your friends to join the UXUY network and earn UXUY tokens for free. You can also purchase UXUY tokens in a DEX or exchange them for other tokens you like. Additionally, if you are a developer, you can join Builder and become a member of the UXUY team.
+You can invite your friends to join the UXUY network and earn UXUY tokens for free. You can also purchase UXUY tokens in a DEX or exchange them for other tokens you like. Additionally, if you are a developer, you can join Builder and become a member of the UXLINK team.
