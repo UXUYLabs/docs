@@ -4,7 +4,7 @@
 
 ## White Paper <a href="#whitepaper" id="whitepaper"></a>
 
-* [📰 White Paper(Alpha Version)](whitepaper/white-paper-alpha-version.md)
+* [📰 White Paper](whitepaper/white-paper.md)
 
 ## DEVELOPER GUIDE <a href="#guide" id="guide"></a>
 
