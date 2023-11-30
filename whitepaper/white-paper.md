@@ -101,7 +101,7 @@ The revenue source for UXLINK are three folds:
 * Service fee:if partners (Dapp creators) need help from community to attract new audiences, service fee may be charged.
 * Product sell: community or project may advance tools or unique identifications such as NFTs
 
-The tokens received include <mark style="color:yellow;">$UXUY</mark> and other cryptos.
+The tokens received include $UXUY and other cryptos.
 
 The revenue will be used for community development and tokens price management.
 
@@ -144,7 +144,7 @@ UXUY is the reward system for UXLINK community and ecosystem development, simply
 * cLg - the total number of people in the UXLINK network.
 * When <mark style="color:green;">cLg >= 30 million</mark>, <mark style="color:green;">Rewards = 0</mark>, which means that no new UXUY Tokens will be produced once the network reaches <mark style="color:green;">30 million</mark>. At that time, the value formed by the network effect can support users and nodes to continue expanding and reach a level of billions.
 
-The UXUY  uses a decrement logic similar to Bitcoin's and uses a computational formula closest to Bitcoin's mining logic. The variables that decrease the Token include time, the number of people connected to a single node, and the total number of people in the UXLINK network. Therefore, as time passes after the release of UXUY and the number of people in the entire UXLINK network increases, the UXUY Tokens earned by users will decrease exponentially, and the later users enter the <mark style="color:yellow;">UXLINK</mark> network, the fewer UXUY Tokens they will receive.
+The UXUY  uses a decrement logic similar to Bitcoin's and uses a computational formula closest to Bitcoin's mining logic. The variables that decrease the Token include time, the number of people connected to a single node, and the total number of people in the UXLINK network. Therefore, as time passes after the release of UXUY and the number of people in the entire UXLINK network increases, the UXUY Tokens earned by users will decrease exponentially, and the later users enter the UXLINK network, the fewer UXUY Tokens they will receive.
 
 #### 5.1.2 UXUY Token Burn Mechanism
 
