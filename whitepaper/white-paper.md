@@ -1,38 +1,40 @@
 # 📰 White Paper
 
-### Abstract:
+## Abstract
 
-UXLINK is a block-chain based social system for mass adopters to build social assets and trade cryptos, with the vision to be a trusted infrastructure product for mass adoption of inclusive finance and trading. There are three goals of UXLINK:
+UXLINK is a blockchain-based social system designed for mass adoption, enabling users to construct social assets and engage in cryptocurrency trading. Its vision is to serve as a reliable infrastructure product, driving the mass adoption of inclusive finance and trading. In this litepaper, we outline three key elements of UXLINK missions:
 
-* To be the largest social system based on users’ real-world connections and behaviors.
-* To cater to both Web3 and Web2 users, facilitating mass adoption, serving 100 million users.
-* To establish fair and rewarding social-nomics and community.
+* **Social Central**: to be the largest social hub, focusing on authentic real-world connections.
+* **Gateway to All**: Bridging Web3 and Web2, to unite 100 million users, fostering universal connectivity.
+* **Community Prosperity**: to foster an inclusive and rewarding social-economic community.
 
-SOCIAL would the most powerful key to Web3 mass adoption, and UXLINK is the innovator in social and socialized trading. UXLINK contains a series of highly modularized Dapps from onboarding to graph forming, to group tools, to socialized trading, close-looped in Telegram. Among all, encrypting and standardizing real-world groups into web3 operational units and making groups the landing scenes for web3 applications is a revolutionary innovation.
+Unlocking the power of SOCIAL is the key to widespread Web3 adoption, and UXLINK is at the forefront, leading the way in socialized trading. UXLINK feature a range of user-friendly Dapps, seamlessly incorporated into Telegram. These applications encompass onboarding, graph forming, group tools, and socialized trading. A groundbreaking advancement lies in encrypting and standardizing real-world groups, transforming them into Web3 operational units. This innovative approach positions groups as the focal point for Web3 applications, marking a revolutionary stride in social and trading innovation.
 
-UXLINK adopt a dual-token economics to strike a balance among simplicity, fairness, and effectiveness.
+To ensure simplicity, fairness, and effectiveness, UXLINK adopts a dual-token economics model. This strategic balance enhances the user experience and amplifies the impact of the platform.
 
 
 
-### <mark style="color:green;">1.Real life problems we are facing: ownership, trust and inclusive finance</mark>
+### <mark style="color:green;">1.Real-Life Challenges We Address: Ownership, Trust, and Inclusive Finance</mark>
 
-#### 1.1 Lack of clarity in social data ownership, although social data and networks are valuable and irreplaceable assets for all mankind.
+#### 1.1 Lack of Clarity in Social Data Ownership
 
-Ownership is the foundation of value sharing. Web2 users generate a significant amount of data, but they own and benefit little from centralized web world. The data ownership issue also prevents developers from bootstrapping innovative products and features. Developers need users’ connections to initiate network effects, but the lack of accessible and composable data which should be owned by the users. The ownership issue also happens in social groups, where there are long-standing conflicts between group leaders and group members.
+The absence of clear ownership in social data poses a significant challenge, while social data and networks are valuable and irreplaceable assets for all mankind.
 
-#### 1.2 Trust is still one of biggest concerns for web3 users.
+In the centralized web world (Web2), users generate substantial data but benefit little. This ownership gap hinders developers from creating innovative products and features. Accessible and composable data, owned by users, is crucial for developers seeking to initiate network effects. The ownership issue extends to social groups, where there are long-standing conflicts between group leaders and group members.
+
+#### 1.2 Trust Is One of The Biggest Concerns
 
 Despite blockchain technology being designed to address trust issues in the web world, rug pulls continue to occur very often. This is partially caused by the anonymous mechanism. And we believe social graph and socialized interaction can improve trust, creating greater sense of safety, because it is human nature for people to show more integrity and reputation in front of people they know.
 
-#### 1.3 Huge groups of people are still financially underserved or benefited unevenly.
+#### 1.3 Financial Inequity Persists Among Large Populations
 
 According to the 2021 World Bank Global Findex, more than 20% of adults (age 15+) are unbanked, not to mention other financial services. And huge amounts of business units do not have fair profit-sharing schemes for contributors. Block-chain technology, born to solve finance problems, may help people build financial health and resilience along the way with mass adoption and scheme designed by UXLINK.
 
-## <mark style="color:green;">2.UXLINK system is the solutions to the issues</mark>
+## <mark style="color:green;">2.A Trust-based System Is Our Solution</mark>
 
-To overcome the stated issues, we are creating a series of protocol and Dapps for users and developers, where users can truly own their social assets and trade, invest their assets socially in a more trusted and socialized environment.
+To overcome the stated issues, ensuring that social trading and investments seamlessly integrate into a deeply socialized experience, fostering trust and thriving for everyone.
 
-### 2.1 Design philosophy and principles
+### 2.1 Design Philosophy and Principles
 
 While UXLINK is evolving, we formed below 3 core principles and philosophy as the guidelines:
 
@@ -40,13 +42,11 @@ While UXLINK is evolving, we formed below 3 core principles and philosophy as th
 
 **Synergize with real-world connections.** We do believe real world connections represent and reflect an individual's reputation, credibility, and values. This fills a key gap that has been missing so far in the blockchains and token-powered protocols.
 
-**Inclusion for users and developers.** For users, we create and choose friendly products and technology for both web2 and web3 environments; for developers, we provide completely open-sourced, easy programmed infrastructure that Dapps can be easily integrated wit. Inclusion leads to scalability.
+**Inclusion for users and developers.** Creating user-friendly products for both Web2 and Web3 environments, and providing open-sourced, easily integrated infrastructure for developers, fostering scalability.
 
+### 2.2 Major Features and Functions - UX Dapps
 
-
-### 2.2 Major features and functions - UX Dapps
-
-#### 2.2.1 For users:
+#### 2.2.1 What We Offer to Users:
 
 **UX Invite**: UX Invite is light Dapp with link to earn mechanism for users to build their on chain social graph.
 
@@ -54,11 +54,11 @@ While UXLINK is evolving, we formed below 3 core principles and philosophy as th
 
 **UX DID/Profile (SBT)**: Users can create Web3 accounts through Telegram, WhatsApp, etc,, reducing the threshold for users to enter Web3. Web3 DIDs reflect and capture users’ existing real-world connections, and thus reflect the real-world credibility. Profile. By ZK (Zero-knowledge proof) technology, users own and utilize their self-sovereign identities (SSI) and social relationships with privacy protection.
 
-#### 2.2.2 For groups (UX Group):
+#### 2.2.2 What Groups Own (UXGroup):
 
-Encrypting social group is innovative and revolutionary. Groups are the most adopted operational units in real world, and UXLINK encrypt and standardize the groups into web3 operational units and making groups the landing scenes for web3 applications.
+**Encrypting Social Groups**: A revolutionary move to standardize groups into Web3 operational units, making groups the focal points for Web3 applications.
 
-AI Groupkits includes group capitalization and profit/asset-sharing scheme. GroupKits will impower real group groups and group leaders.
+**AI Groupkits**: Includes group capitalization and profit/asset-sharing schemes, empowering real groups and leaders.
 
 **GGraph**：Mint group ID and graph to build social assets on chain in group level
 
@@ -66,54 +66,58 @@ AI Groupkits includes group capitalization and profit/asset-sharing scheme. Grou
 
 **GPass**: Capture your group's value and tradable.
 
-### 2.3 UXLINK protocol
+### 2.3 UXLINK Protocol: A Developer's Hub
 
-UXLINK protocol is more for developers. The protocol is on Arbitrum chain for now, providing UXLINK with secure and low-cost technical services. In the future, UXLINK will continue to launch on other chains, supporting multi-chain. API and SDKs are provided to developers and partners.
+The UXLINK protocol caters primarily to developers, currently residing on the Arbitrum chain, ensuring secure and cost-effective technical services for UXLINK. In the future, UXLINK will continue to launch on other chains, supporting multi-chain. API and SDKs are provided to developers and partners.
 
-### 2.4 Other Rich Dapps under developing.&#x20;
+### 2.4 Other Dynamic Dapps Under Developing
 
-**AI GroupKit Bot:** A decentralized AI Dapp for individuals and projects to build and manage their community. The bot is suitable for Telegram system.
+**AI GroupKit Bot**: A decentralized AI Dapp for individuals and projects to build and manage their community. The bot is suitable for Telegram system.
 
 **AI Advisor**：Search on-line crypto information fast and provide AI advisory for users
 
 **UX Trade**: A social trading Dapp for users to conduct socialized trading and investments, including follow buy, group buy, just like a game.
 
-## <mark style="color:green;">3.Usage scenarios</mark>
+## <mark style="color:green;">3.Usage Scenarios</mark>
 
-Let us go through one user's journey, his name is Alex:
+Let's explore a typical user journey, featuring Alex:
 
-3.1 Alex uses UXLINK protocol to create his networks in web3, wallets, DIDs, profiles, forming his social assets. Alex can manage and engage his social networks in both Web3 and Web2 settings.
+### 3.1 Gateway to Web3
 
-3.2. Alex monetizes his social networks by providing traffic, data and engagement, such as social games, social marketing, fission for Dapps; on the other hand, Dapps leverage Alex' networks to gain new audiences or engagement while rewarding Alex.
+Alex uses UXLINK Dapp to create his networks in web3, wallets, DIDs, profiles, forming his social assets. Alex can manage and engage his social networks in both Web3 and Web2 settings.
 
-3.3 Alex can engage socialized finance and trading, such as swap, light investment, borrowing, payments, credit, and insurance, in a safer and friendly environment, to achieve better returns.
+### 3.2 Monetizing Social Networks
 
-3.4 More importantly, Alex can play a leader role in group activities to influence other users and get more incentives. Alex can join other groups and interact with other group members.
+Alex monetizes his social networks by offering traffic, data, and engagement, facilitating activities like social games, social marketing, and Dapp fission. Simultaneously, Dapps leverage Alex's networks to access new audiences, rewarding him for his contribution.
+
+### 3.3 Socialized Finance and Trading
+
+Alex can engage socialized finance and trading, such as swap, light investment, borrowing, payments, credit, and insurance, in a safer and friendly environment, to achieve better returns.
+
+### 3.4 Leadership in Group Activities
+
+More importantly, Alex can play a leader role in group activities to influence other users and get more incentives. Alex can join other groups and interact with other group members.
 
 ## <mark style="color:green;">4. Revenue Model</mark>
 
-In principle, users, rather than UXLINK, owners the networks and the data associated. Consequently, users own the values generated, while UXLINK share.
+In principle, users, not UXLINK, own the networks and associated data, resulting in users owning the generated values while UXLINK shares. The revenue model for UXLINK encompasses three main sources:
 
-The revenue source for UXLINK are three folds:
+* **Gas fee**: Involves data owners and demanders. UXLINK charges a certain percentage of fees, termed as "gas," for data movement. Additionally, if Dapps generate revenue within the network, UXLINK also charges a percentage of fees.
+* **Commission fee**: UXLINK imposes a certain percentage of commission fees on socialized trading Dapps.
+* **Service fee**:if partners (Dapp creators) need help from community to attract new audiences, service fee may be charged.
+* **Product sell**: community or project may advance tools or unique identifications such as NFTs
 
-* Gas fee: There are data owners, and data demanders. If there is data movement, UXLINK change certain % of fee as "gas". If Dapps generate revenue in the network, UXLINK also changes certain % of fees.
-* Commission fee: UXLINK will charge certain % of commission fee on socialized trading Dapps.
-* Service fee:if partners (Dapp creators) need help from community to attract new audiences, service fee may be charged.
-* Product sell: community or project may advance tools or unique identifications such as NFTs
+The tokens received include $UXUY and other cryptocurrencies.The generated revenue will be allocated towards community development and token price management.
 
-The tokens received include $UXUY and other cryptos.
+## <mark style="color:green;">5. Tokenomics</mark>
 
-The revenue will be used for community development and tokens price management.
-
-## <mark style="color:green;">5. Token Economics</mark>
-
-UXLINK Protocol apply a dual-token model, consisting of the protocol’s native utility tokens or points (UXUY, as POW records) and governance tokens ($UXLINK).
+The UXLINK project adopts a dual-token model, comprising the protocol's native utility token or points ($UXUY, as POW records) and governance token ($UXLINK).
 
 The dual-token model provides a framework of governance and development of our community and ecosystem, while maximizing the transparency and fairness.
 
-### 5.1 UXLINK Utility Tokens (UXUY)
+### 5.1 UXUY: UXLINK Utility Token
 
-UXUY is the reward system for UXLINK community and ecosystem development, simply and purely based on a fair Proof of Link (POL) mechanism. There is no pre-minted UXUY. Anyone who wants to earn UXUY needs to invite other users or contribute to the ecosystem. UXUY Tokens can be stored in an Ethereum-compatible wallet. The earlier the user creates their social network, the more UXUY they will receive.
+UXUY is the reward system for UXLINK's community and ecosystem development, solely based on a transparent Proof of Link (POL) mechanism. There is no pre-minted UXUY; users earn UXUY by inviting others or contributing to the ecosystem. Stored in an Ethereum-compatible wallet, the earlier a user creates their social network, the more UXUY they receive. This approach ensures a fair and incentivized growth of the community.
 
 #### 5.1.1 UXUY Token Reward Decreasing Formula
 
@@ -144,13 +148,13 @@ UXUY is the reward system for UXLINK community and ecosystem development, simply
 * cLg - the total number of people in the UXLINK network.
 * When <mark style="color:green;">cLg >= 30 million</mark>, <mark style="color:green;">Rewards = 0</mark>, which means that no new UXUY Tokens will be produced once the network reaches <mark style="color:green;">30 million</mark>. At that time, the value formed by the network effect can support users and nodes to continue expanding and reach a level of billions.
 
-The UXUY  uses a decrement logic similar to Bitcoin's and uses a computational formula closest to Bitcoin's mining logic. The variables that decrease the Token include time, the number of people connected to a single node, and the total number of people in the UXLINK network. Therefore, as time passes after the release of UXUY and the number of people in the entire UXLINK network increases, the UXUY Tokens earned by users will decrease exponentially, and the later users enter the UXLINK network, the fewer UXUY Tokens they will receive.
+The UXUY utilizes a decrement logic reminiscent of Bitcoin's, employing a computational formula closely aligned with Bitcoin's mining logic. Key variables influencing token decrement include time, the number of connections to a single node, and the overall UXLINK network's total user count. As time progresses and the UXLINK network expands, users will experience an exponential decrease in the UXUY earned. Consequently, users entering the UXLINK network later will receive fewer UXUY, emphasizing the scarcity and value of early engagement.
 
-#### 5.1.2 UXUY Token Burn Mechanism
+#### 5.1.2 Token Burn Mechanism
 
-UXUY is the UXLINK Protocol's application token and can be used to pay for Gas fees on-chain in the UXLINK ecosystem, including on-chain transactions, transfers, and social network reading. In the UXLINK ecosystem, 【3-15%】 of these fees will be burned.
+UXUY can be used to pay for on-chain Gas fees within the whole ecosystem, covering transactions, transfers, and social network interactions. Notably, a percentage ranging from 3% to 15% of these fees within the UXLINK ecosystem will be subject to a token burn mechanism.
 
-### 5.2 UXLINK Governance tokens
+### 5.2 UXLINK: UXLINK Governance Token
 
 Our to-be-issued governance token - $UXLINK is to realize governance and value capture from UXLINK project and products.
 
@@ -167,35 +171,47 @@ Notes：
 * Among the 70% of community, users account \~40% while all other types of builders and partners account \~30%.
 * For development of the project, new investors would be in, and this would change the distributions. we will keep the change transparent if it occurs.
 
-#### 5.2.2 release schedule
+#### 5.2.2 Release Schedule
 
 Please note the starting point is upon listing, not TGE
 
-* Community: the $UXLINK will be airdropped to active users, builders and partners based on the proof of work/UXLINK tokens monthly-basis. Once airdropped, there is no lock up and release schedule required.
-* Investors: Lock up 3 months, and then 2-years linear quarterly release. 12.5% per quarter for 8 quarters.
-* Team: lock up 6 months, and then 2-years linear quarterly release. 12.5% per quarter for 8 quarters.
-* Treasure: flexible to meet the need of pricing and liquidity
+* **Community**: $UXLINK tokens will be airdropped to active users, builders, and partners on a monthly basis. Notably, once airdropped, there is no lock-up period, providing immediate access.
+* **Investors**: Initially subject to a 3-month lock-up, followed by a 2-year linear quarterly release. This entails a gradual release of 12.5% per quarter for 8 quarters, promoting long-term engagement.
+* **Team**: With a 6-month lock-up, the team's $UXLINK tokens will undergo a 2-year linear quarterly release, releasing 12.5% per quarter for 8 quarters, aligning with the project's long-term success.
+* **Treasury**: flexible to meet the need of pricing and liquidity
 
 Below is the indicative maximized supply of $UXLINK since listing in 16 quarters, 4 years.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-notes:
+Notes:
 
-* Assuming the treasure (5%) is released when listing, the circulation supply would be around 10% of max supply; if not, the circulation supply would be around 5% of max supply.
-* By end of 12th quarter, if the project reaches 30,000,000 users, the total supply would reach the max.
+* Assuming the treasury (5%) is released when listing, the circulation supply would be around 10% of max supply; if not, the circulation supply would be around 5% of max supply.
+* By end of 12th quarter, if the project reaches 30,000,000 users, the total supply will reach the max.
 
-#### 5.2.3 The total supply of $UXLINK to community
+#### 5.2.3 Community Allocation Strategy
 
-The total supply of $UXLINK to community is directly related to the POW/POL of users and various builders, and thus shows positive correlation with the total numbers of users. According to our utility tokens generation formular: the maximized potential supply will occur when the total qualified users achieve 30,000,000; the networks' utility and gravity can support growth without a reward system beyond 30,000,000 users.
+The total supply of $UXLINK allocated to the community is intricately tied to the POW (Proof of Work)/POL (Proof of Link) contributions from users and various builders. According to our utility tokens generation formular: the maximized potential supply will occur when the total qualified users achieve 30,000,000; the networks' utility and gravity can support growth without a reward system beyond 30,000,000 users.
 
-The $UXLINK Frelease according to the total number of users; time axis is an indirect factor, indicating that:
+The $UXLINK release according to the total number of users; time axis is an indirect factor, indicating that:
 
 * If total number of users reaches 30,000,000 earlier than scheduled, more $UXLINK will be release earlier.
 * If the total number of users reaches 30,000,000 later than scheduled, the maximized supply will take longer time to released.
 * If the total number of users cannot achieve 30,000,000 users, the total supply will not reach the max supply at all. As a result, the total supply would not reach the max-supply of 1,000,000,000.
 
-### <mark style="color:green;">Summary</mark>:
+## <mark style="color:green;">6. Roadmap</mark>
+
+Considering the scalability and sustainability of the project, UXLINK community have developed a 4-year roadmap, aiming to be the largest web3 social Dapps in the world. However, beyond 4 years, the project will continue to build and support the web3 mass adoption and inclusive finance for the world.
+
+| Stage                                      | Tasks                                                             | Major Milestones                                         |
+| ------------------------------------------ | ----------------------------------------------------------------- | -------------------------------------------------------- |
+| Y1: Prove                                  | Product market fit                                                | 1 million users approved the concept                     |
+| Y2: Web3 Ecosystem and Tokenomics building | <p>Cross-chain building</p><p>Listed in CEX &#x26; Dex</p>        | <p>• Cross-chain</p><p>• Provide liquidity of tokens</p> |
+| Y3: Expansion                              | <p>Channel Expansion</p><p>Market expansion</p>                   | <p>• WhatsApp deployment</p><p>• 10 million users</p>    |
+| Y4: Open Ecosystem                         | Bridge web2 and web3, for users, builders, and ecosystem partners | To be the largest and reliable web3 social system        |
+| Beyond: Further growth and contribution    | Refer to project vision                                           | refer to project vision                                  |
+
+### <mark style="color:green;">Summary</mark>
 
 UXLINK is social system includes social protocol and a series of Dapps for trading. As more users join and actively participate, UXLINK will evolve into a network consist of social graph, relationships, and socialized trading tools. More importantly, UXLINK create a revolutionary landing scenes, the web3 groups, to lead mass adoption.
 
@@ -204,7 +220,7 @@ Two characters distinguish UXLINK from other social protocols and Dapps:
 * UXLINK combines real-world, acquaintances’ social connections with blockchain technology to enhance to trust of the web world.
 * Encrypting and standardizing real-world groups into web3 operational units and making groups the landing scenes for web3 applications.
 
-We cannot emphasize enough that UXLINK is truly community owned and community driven. The community is supported by renowned investors, has many talents builders, and expands into several markets. The future will undoubtedly be shaped by our powerful UXLINK community.
+We cannot emphasize enough that UXLINK is truly community owned and community driven. Supported by esteemed investors, featuring a talented pool of builders, and expanding into diverse markets, the UXLINK community is poised to shape the future. The journey ahead promises to be defined by the collective strength and innovation of the UXLINK community.
 
 
 
@@ -212,12 +228,12 @@ We cannot emphasize enough that UXLINK is truly community owned and community dr
 
 ## Change log:
 
-* 2023 May：Alpha version 1, stated goals, features, utility tokens
-* 2023 Aug：Alpha version 2, updated user scenarios and revenue models, proposed governance tokens
+* 2023 May: Alpha version 1, stated goals, features, utility tokens
+* 2023 Aug: Alpha version 2, updated user scenarios and revenue models, proposed governance tokens
 * 2023 Sep: Alpha version3, updated more user scenarios
 * 2023 Nov: Alpha version4, updated brand name and group functions
 
-Our community reserve the rights to further update the whitepaper along with the development of the project and community. We welcome and appreciate any feedbacks and suggestions as always.
+Our community reserve the rights to further update the whitepaper along with the development of the project and community. We welcome and appreciate any feedback and suggestions as always.
 
 Join UXLINK Community
 
