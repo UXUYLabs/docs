@@ -4,9 +4,9 @@
 
 UXLINK is a blockchain-based social system designed for mass adoption, enabling users to construct social networks and engage in virtual interactions on a variety of topics, including Web3 financial topics. Its vision is to serve as a reliable infrastructure product, driving the mass adoption of inclusive Web3 interactions. In this litepaper, we outline three key elements of UXLINK missions:
 
-* **Social Central**: to be the largest social hub, focusing on authentic real-world connections.
+* **Social Central**: To be the largest social hub, focusing on authentic real-world connections.
 * **Gateway to All**: Bridging Web3 and Web2, to unite 100 million users, fostering universal connectivity.
-* **Community Prosperity**: to foster an inclusive and rewarding social-economic community.
+* **Community Prosperity**: To foster an inclusive and rewarding social-economic community.
 
 Unlocking the power of SOCIAL is the key to widespread Web3 adoption, and UXLINK is at the forefront, leading the way in socialized Web3 interactions. UXLINK feature a range of user-friendly Dapps, seamlessly incorporated into Telegram. These applications encompass onboarding, graph forming, group tools, and socialized Web3 interactions. A groundbreaking advancement lies in encrypting and standardizing real-world groups, transforming them into Web3 operational units. This innovative approach positions groups as the focal point for Web3 applications, marking a revolutionary stride in social and virtual interaction innovation.
 
@@ -50,7 +50,7 @@ While UXLINK is evolving, we formed below 3 core principles and philosophy as th
 
 **UX Invite**: UX Invite is light Dapp with a mechanism for users to build their on chain social graph.
 
-**UX Wallet**: based on MPC and will be enhanced by Account Abstraction technology. Major advantages include private key social recovery, custody, and automatic executions to better strike the balance between safety and simplicity.
+**UX Wallet**: Based on MPC and will be enhanced by Account Abstraction technology. Major advantages include private key social recovery, custody, and automatic executions to better strike the balance between safety and simplicity.
 
 **UX DID/Profile (SBT)**: Users can create Web3 accounts through Telegram, WhatsApp, etc,, reducing the threshold for users to enter Web3. Web3 DIDs reflect and capture users’ existing real-world connections, and thus reflect the real-world credibility. Profile. By ZK (Zero-knowledge proof) technology, users own and utilize their self-sovereign identities (SSI) and social relationships with privacy protection.
 
@@ -60,7 +60,7 @@ While UXLINK is evolving, we formed below 3 core principles and philosophy as th
 
 **AI Groupkits**: Includes group resourcing and data sharing schemes, empowering real groups and leaders.
 
-**GGraph**：Mint group ID and graph to build social networks on chain in group level.
+**GGraph:** Mint group ID and graph to build social networks on chain in group level.
 
 **GWallet**: Manage group's networks transparently.
 
@@ -74,7 +74,7 @@ The UXLINK protocol caters primarily to developers, currently residing on the Ar
 
 **AI GroupKit Bot**: A decentralized AI Dapp for individuals and projects to build and manage their community. The bot is suitable for Telegram system.
 
-**AI Assistant**：Search on-line crypto information fast and provide AI data for users.
+**AI Assistant:** Search on-line crypto information fast and provide AI data for users.
 
 **UX Interact**: A social interaction Dapp for users to conduct socialized Web3 interactions on a variety of topics, including Web3 financial topics, individual and group interactions, just like a game.
 
@@ -104,8 +104,8 @@ In principle, users, not UXLINK, own the networks and associated data, resulting
 
 * **Gas fee**: Involves data owners and demanders. UXLINK charges a certain percentage of fees, termed as "gas," for data movement. Additionally, if Dapps generate benefits within the network, UXLINK also charges a percentage of fees.
 * **Commission fee**: UXLINK imposes a certain percentage of commission fees on socialized interaction Dapps in relation to Web3 financial topics.
-* **Service fee**:if partners (Dapp creators) need help from community to attract new audiences, service fee may be charged.
-* **Product sell**: community or project may advance tools or unique identifications such as NFTs.
+* **Service fee**: If partners (Dapp creators) need help from community to attract new audiences, service fee may be charged.
+* **Product sell**: Community or project may advance tools or unique identifications such as NFTs.
 
 Tokens received include $UXLINK and other cryptocurrencies. The generated fees will be allocated towards community development and token management.
 
@@ -178,7 +178,7 @@ Please note the starting point is upon listing, not TGE
 * **Community**: $UXLINK tokens will be airdropped to active users, builders, and partners on a monthly basis. Notably, once airdropped, there is no lock-up period, providing immediate access.
 * **Partners**: Initially subject to a 3-month lock-up, followed by a 2-year linear quarterly release. This entails a gradual release of 12.5% per quarter for 8 quarters, promoting long-term engagement.
 * **Team**: With a 6-month lock-up, the team's $UXLINK tokens will undergo a 2-year linear quarterly release, releasing 12.5% per quarter for 8 quarters, aligning with the project's long-term success.
-* **Treasury**: flexible
+* **Treasury**: Flexible
 
 Below is the indicative maximized supply of $UXLINK since listing in 16 quarters, 4 years.
 
