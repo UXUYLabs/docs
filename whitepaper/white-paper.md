@@ -98,7 +98,7 @@ Alex can engage socialized Web3 interactions on a variety of topics, including W
 
 More importantly, Alex can play a leader role in group activities to influence other users and get more incentives. Alex can join other groups and interact with other group members.
 
-## <mark style="color:green;">4. Revenue Model</mark>
+## <mark style="color:green;">4. Model</mark>
 
 In principle, users, not UXLINK, own the networks and associated data, resulting in users owning the generated benefits on UXLINK. The model for UXLINK encompasses three main sources:
 
