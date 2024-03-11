@@ -50,7 +50,7 @@ While UXLINK is evolving, we formed below 3 core principles and philosophy as th
 
 **UX Invite**: UX Invite is light Dapp with a mechanism for users to build their on chain social graph.
 
-**UX Wallet**: ased on MPC and will be enhanced by Account Abstraction technology. Major advantages include private key social recovery, custody, and automatic executions to better strike the balance between safety and simplicity.
+**UX Wallet**: Based on MPC and will be enhanced by Account Abstraction technology. Major advantages include private key social recovery, custody, and automatic executions to better strike the balance between safety and simplicity.
 
 **UX DID/Profile (SBT)**: Users can create Web3 accounts through Telegram, WhatsApp, etc,, reducing the threshold for users to enter Web3. Web3 DIDs reflect and capture users’ existing real-world connections, and thus reflect the real-world credibility. Profile. By ZK (Zero-knowledge proof) technology, users own and utilize their self-sovereign identities (SSI) and social relationships with privacy protection.
 
