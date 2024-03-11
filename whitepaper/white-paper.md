@@ -2,9 +2,9 @@
 
 ## Abstract
 
-UXLINK is a blockchain-based social system designed for mass adoption, enabling users to construct social networks and engage in virtual interactions on a variety of topics, including Web3 financial topics. Its vision is to serve as a reliable infrastructure product, driving the mass adoption of inclusive Web3 interactions. In this litepaper, we outline three key elements of UXLINK missions:
+UXLINK is a leading user-driven web3 social platform for mass adoption, aiming to be a social DEX and social infrastructure. Different from other one-way, following-only relationships, UXLINK forms two-way, friend-type social relationship, and enables real-time interactions by UXGroup usage scenario. In this litepaper, we outline three key elements of UXLINK missions:
 
-* **Social Central**: To be the largest social hub, focusing on authentic real-world connections.
+* **Social Central**: To be the largest social platform, focusing on authentic real-world, two-way connections.
 * **Gateway to All**: Bridging Web3 and Web2, to unite 100 million users, fostering universal connectivity.
 * **Community Prosperity**: To foster an inclusive and rewarding social-economic community.
 
@@ -30,7 +30,7 @@ Despite blockchain technology being designed to address trust issues in the web 
 
 According to the 2021 World Bank Global Findex, more than 20% of adults (age 15+) are unbanked, not to mention other financial services. Block-chain technology, born to solve finance problems, may help people build financial knowledge and resilience along the way with mass adoption and scheme designed by UXLINK.
 
-## <mark style="color:green;">2.A Trust-based System Is Our Solution</mark>
+## <mark style="color:green;">2.A Trust-based Social System Is Our Solution</mark>
 
 To overcome the stated issues, ensuring that social interactions and discussions, including interactions in relation to Web3 financial topics, seamlessly integrate into a deeply socialized experience, fostering trust and thriving for everyone.
 
@@ -38,7 +38,7 @@ To overcome the stated issues, ensuring that social interactions and discussions
 
 While UXLINK is evolving, we formed below 3 core principles and philosophy as the guidelines:
 
-**User sovereignty first.** User sovereignty includes users having ownership and control over online identities, social connections, social data, with data privacy protection.
+**User sovereignty first.** User sovereignty includes users having ownership and control over online identities, social connections, social data, with data privacy protection.&#x20;
 
 **Synergize with real-world connections.** We do believe real world connections represent and reflect an individual's reputation, credibility, and values. This fills a key gap that has been missing so far in the blockchains and token-powered protocols.
 
@@ -50,7 +50,7 @@ While UXLINK is evolving, we formed below 3 core principles and philosophy as th
 
 **UX Invite**: UX Invite is light Dapp with a mechanism for users to build their on chain social graph.
 
-**UX Wallet**: Based on MPC and will be enhanced by Account Abstraction technology. Major advantages include private key social recovery, custody, and automatic executions to better strike the balance between safety and simplicity.
+**UX Wallet**: ased on MPC and will be enhanced by Account Abstraction technology. Major advantages include private key social recovery, custody, and automatic executions to better strike the balance between safety and simplicity.
 
 **UX DID/Profile (SBT)**: Users can create Web3 accounts through Telegram, WhatsApp, etc,, reducing the threshold for users to enter Web3. Web3 DIDs reflect and capture users’ existing real-world connections, and thus reflect the real-world credibility. Profile. By ZK (Zero-knowledge proof) technology, users own and utilize their self-sovereign identities (SSI) and social relationships with privacy protection.
 
@@ -65,6 +65,14 @@ While UXLINK is evolving, we formed below 3 core principles and philosophy as th
 **GWallet**: Manage group's networks transparently.
 
 **GPass**: Capture your group's benefits.
+
+#### 2.2.3 UX Social DEX:
+
+**UX-Swap**: Trade cryptos
+
+**UX-IDO** (under development)
+
+**UX-Lending** (under development)
 
 ### 2.3 UXLINK Protocol: A Developer's Hub
 
@@ -111,7 +119,7 @@ Tokens received include $UXLINK and other cryptocurrencies. The generated fees w
 
 ## <mark style="color:green;">5. Tokenomics</mark>
 
-The UXLINK project adopts a dual-token model, comprising the protocol's native utility token or points ($UXUY, as POW records) and governance token ($UXLINK).
+The UXLINK project adopts a dual-token model, comprising the protocol's native utility token or points ($UXUY, as POW records, points) and governance token ($UXLINK).
 
 The dual-token model provides a framework of governance and development of our community and ecosystem, while maximizing the transparency and fairness.
 
@@ -164,18 +172,18 @@ The tokens have limited supply of no more than 1,000,000,000 and we propose belo
 
 
 
-<table><thead><tr><th width="144"></th><th width="493.3333333333333">Composition</th><th>%</th></tr></thead><tbody><tr><td><strong>Community</strong></td><td>Users who own UXLINK utility tokens, and builders and partners contributed to UXLINK projects and ecosystems.</td><td>   70</td></tr><tr><td><strong>Private Sale</strong></td><td>Partners of this project.</td><td> 16.25</td></tr><tr><td><strong>Team</strong></td><td>Co-founders, contracted employees, advisors.</td><td>   8.75</td></tr><tr><td><strong>Treasure</strong></td><td>Reserves such as lunch pads, reserves, staking.</td><td>     5</td></tr></tbody></table>
+<table><thead><tr><th width="144"></th><th width="493.3333333333333">Composition</th><th>%</th></tr></thead><tbody><tr><td><strong>Community</strong></td><td>Users who own UXLINK utility tokens, and builders and partners contributed to UXLINK projects and ecosystems.</td><td>   65</td></tr><tr><td><strong>Private Sale</strong></td><td>Partners of this project.</td><td> 21.25</td></tr><tr><td><strong>Team</strong></td><td>Co-founders, contracted employees, advisors.</td><td>   8.75</td></tr><tr><td><strong>Treasure</strong></td><td>Reserves such as lunch pads, reserves, staking.</td><td>     5</td></tr></tbody></table>
 
 Notes：
 
-* Among the 70% of community, users account \~40% while all other types of builders and partners account \~30%.
-* For development of the project, new partners would be in, and this would change the allocation. we will keep the change transparent if it occurs.
+* Among the 65% of community, users account \~40% while all other types of builders and partners account \~25%.
+* For development of the project, new partners would be in, and this would change the allocation. We will keep the change transparent if it occurs.
 
 #### 5.2.2 Release Schedule
 
 Please note the starting point is upon listing, not TGE
 
-* **Community**: $UXLINK tokens will be airdropped to active users, builders, and partners on a monthly basis. Notably, once airdropped, there is no lock-up period, providing immediate access.
+* **Community**: $UXLINK tokens will be airdropped to active users, builders, and partners monthly. Notably, once airdropped, there is no lock-up period, providing immediate access.
 * **Partners**: Initially subject to a 3-month lock-up, followed by a 2-year linear quarterly release. This entails a gradual release of 12.5% per quarter for 8 quarters, promoting long-term engagement.
 * **Team**: With a 6-month lock-up, the team's $UXLINK tokens will undergo a 2-year linear quarterly release, releasing 12.5% per quarter for 8 quarters, aligning with the project's long-term success.
 * **Treasury**: Flexible
@@ -233,6 +241,7 @@ We cannot emphasize enough that UXLINK is truly community owned and community dr
 * 2023 Sep: Alpha version3, updated more user scenarios
 * 2023 Nov: Alpha version4, updated brand name and group functions
 * 2024 Jan: Alpha version5
+* 2024 Mar: Alpha version 6, change token allocation because of private sale, approval by community votes.
 
 Our community reserve the rights to further update the whitepaper along with the development of the project and community. We welcome and appreciate any feedback and suggestions as always.
 
