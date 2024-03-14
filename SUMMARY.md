@@ -14,7 +14,7 @@
 
 ## API SERVICE
 
-* [🎊 Auth](api-service/auth.md)
+* [🎊 Explorer API](api-service/explorer-api.md)
 * [🗺️ Social Profile](api-service/social-profile.md)
   * [Recommendation](api-service/social-profile/recommendation.md)
   * [User Info](api-service/social-profile/user-info.md)
