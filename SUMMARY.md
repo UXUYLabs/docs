@@ -37,3 +37,7 @@
 ## Troubleshooting
 
 * [📠 FAQ](troubleshooting/faq.md)
+
+***
+
+* [Contracts](contracts.md)
