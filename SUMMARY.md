@@ -34,10 +34,10 @@
   * [Auth api](jssdk/js-api/auth-api.md)
   * [Account api](jssdk/js-api/account-api.md)
 
-## Troubleshooting
-
-* [📠 FAQ](troubleshooting/faq.md)
-
 ***
 
 * [Contracts](contracts.md)
+
+## Troubleshooting
+
+* [📠 FAQ](troubleshooting/faq.md)
