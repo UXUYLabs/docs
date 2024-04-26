@@ -1,8 +1,8 @@
 ---
 description: >-
-  UXLINK is a block-chain based social system to build and trade on-chain assets
-  socially, with the vision to be a trusted infrastructure product for mass
-  adoption of inclusive finance and trading.
+  UXLINK is the largest web3 social platform and infrastructure for users and
+  developers to discover, distribute, and trade crypto assets in unique social
+  and group-based manner.
 cover: .gitbook/assets/uxuynetworkbanner_WH_540x320px.jpg
 coverY: 0
 layout:
