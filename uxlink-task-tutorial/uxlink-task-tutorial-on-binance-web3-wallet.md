@@ -10,9 +10,9 @@ Download and connect Binance Web3 wallet and get rewarded with UXUY tokens!
 
 Check-in daily and get rewarded with UXUY tokens!
 
-##
-
 ## Guideline:
+
+
 
 ### <mark style="color:green;">Login with your wallet</mark>
 
@@ -24,7 +24,7 @@ Check-in daily and get rewarded with UXUY tokens!
 
 ![/Users/apple/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/photoeditapp/20240430233501/temp.pngtemp](https://lh7-us.googleusercontent.com/INMnLRNWXkiaKar47a65DdZuZjVZAB6vxwshx8LxzUbqRRxYNy\_W4o73uybmvRtqf0VPuVcLR1imtD96Plbc3g-jmOOhlzdsrtY8LPxzE\_kwgx1YpLHk2hXmvYWJ5Iub42HaLCi9g8MQh805sEdcdA) ![/Users/apple/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/photoeditapp/20240501000600/temp.pngtemp](https://lh7-us.googleusercontent.com/u3FO8fugKLOyY80wQ45UcVTLkBVk1asUS4p0FB1Pizy5bLjH9AUH9s7sARlUFmFPdxcJgbFQ\_3xyPitpAGUC92fqxEVHAjAv\_63HXURaGwIqVHnZMDcy1VN511CcoZfPKi2CzxSF2zr9P0Hs2mt3ig) ![/Users/apple/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/photoeditapp/20240501014801/temp.pngtemp](https://lh7-us.googleusercontent.com/boMue940sc8S5LbPvmPfgzywb0KG3YA9mOLk89bPqVd0vfeB1742p6ERzhnke9EtWuWBAtNacfZ2dej4MJV9J2N8rKUJDiIoQnbUTbhQwAzIBo0HCb73b\_lsN9AklJnv36ov7WvRls-b-rqgpoIC8Q)
 
-###
+
 
 ### <mark style="color:green;">Task 1:Connect Binance Web3 wallet</mark>
 
@@ -35,7 +35,7 @@ Check-in daily and get rewarded with UXUY tokens!
 &#x20;· Complete the security verification for the task and display wallet verification success
 
 \
-![/Users/apple/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/photoeditapp/20240501000903/temp.pngtemp](https://lh7-us.googleusercontent.com/jnjOrSCqaQQVZnuH6Ep5oDsFlJ-2M3rO3LH2lFBoilX7faELvWMHHx2Ob2B6Um7FFMfT6HHBBXXv3MzSON\_lEO4wjYbYdRmQkhbX11BfNb4t53z2bVMpYJSrPtOpzQcRE4FjpuI04KfTy5CHxu11oA)![/Users/apple/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/photoeditapp/20240501001111/temp.pngtemp](https://lh7-us.googleusercontent.com/50O3GTG3tRmwagQ-PD\_2irkDlfB3dE0hFPk0-Ucgi-fftwMXrmNO\_w\_b0k9Cl5L54Zi8z-ZZNKppmj7Zt1UddlX9pMBfj3BN89dRkiJZUkUpt8ipqOb3rQUXAIxscgH9iPwGA3IMtIir-GwtYVDGZQ)
+![/Users/apple/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/photoeditapp/20240501000903/temp.pngtemp](https://lh7-us.googleusercontent.com/jnjOrSCqaQQVZnuH6Ep5oDsFlJ-2M3rO3LH2lFBoilX7faELvWMHHx2Ob2B6Um7FFMfT6HHBBXXv3MzSON\_lEO4wjYbYdRmQkhbX11BfNb4t53z2bVMpYJSrPtOpzQcRE4FjpuI04KfTy5CHxu11oA)<img src="https://lh7-us.googleusercontent.com/50O3GTG3tRmwagQ-PD_2irkDlfB3dE0hFPk0-Ucgi-fftwMXrmNO_w_b0k9Cl5L54Zi8z-ZZNKppmj7Zt1UddlX9pMBfj3BN89dRkiJZUkUpt8ipqOb3rQUXAIxscgH9iPwGA3IMtIir-GwtYVDGZQ" alt="/Users/apple/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/photoeditapp/20240501001111/temp.pngtemp" data-size="original">
 
 ![/Users/apple/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/photoeditapp/20240501001232/temp.pngtemp](https://lh7-us.googleusercontent.com/hMr5PQY-Q8DATFZFz5jXtoUHtdBo0D4hYZ6vbdpDlcmXU2qvONOQ5Ub8S86RgEyhhinuija6-O2r1vNEcB2GSzQk3cwJXLwH\_3PeZfFfYrtAshgGXNEWH170FPsexRQYGnRa7Ne2L3E0LtOsWNsJHw)![/Users/apple/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/photoeditapp/20240501022705/temp.pngtemp](https://lh7-us.googleusercontent.com/AdUDE8fGU60OCWinP90CVGzgQdyz-hu-bJVwh9OeJsowNyWsmp\_gu-cb-rylkxWj-xR6ACmIPYsZVEHZK-peSdb6LZcpI9OjXoxypWFGzzXAE39kE9\_OBg\_XJ729WaSuT01zu0UPnZcgXkN8x36thQ)
 
