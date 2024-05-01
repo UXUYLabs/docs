@@ -41,3 +41,8 @@
 ## Troubleshooting
 
 * [📠 FAQ](troubleshooting/faq.md)
+
+***
+
+* [UXLINK Task Tutorial](uxlink-task-tutorial/README.md)
+  * [UXLINK Task Tutorial on Binance Web3 Wallet](uxlink-task-tutorial/uxlink-task-tutorial-on-binance-web3-wallet.md)
