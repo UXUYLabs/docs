@@ -28,7 +28,7 @@ Check-in daily and get rewarded with UXUY tokens!
 
 ### <mark style="color:green;">Task 1:Connect Binance Web3 wallet</mark>
 
-· Click “Task1”
+· Click “Task 1”
 
 · Select "Sign"
 

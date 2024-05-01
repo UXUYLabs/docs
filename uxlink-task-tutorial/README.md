@@ -1,10 +1,2 @@
 # UXLINK Task Tutorial
 
-
-
-\
-
-
-
-
-\
