@@ -6,6 +6,10 @@
 
 * [📰 White Paper](whitepaper/white-paper.md)
 
+## UXLINK Contracts
+
+* [Contracts](uxlink-contracts/contracts.md)
+
 ## DEVELOPER GUIDE <a href="#guide" id="guide"></a>
 
 * [🍊 Service-Api](guide/service-api.md)
@@ -32,10 +36,6 @@
 * [JS-API](jssdk/js-api/README.md)
   * [Auth api](jssdk/js-api/auth-api.md)
   * [Account api](jssdk/js-api/account-api.md)
-
-***
-
-* [Contracts](contracts.md)
 
 ## Troubleshooting
 

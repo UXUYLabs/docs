@@ -1,5 +1,6 @@
 ---
 description: 'The contracts are deployed at the following addresses:'
+coverY: 0
 ---
 
 # Contracts
