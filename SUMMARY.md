@@ -10,6 +10,11 @@
 
 * [Contracts](uxlink-contracts/contracts.md)
 
+## Tutorial
+
+* [UXLINK Task Tutorial](uxlink-tutorial/uxlink-task-tutorial/README.md)
+  * [UXLINK Task Tutorial on Binance Web3 Wallet](uxlink-tutorial/uxlink-task-tutorial/uxlink-task-tutorial-on-binance-web3-wallet.md)
+
 ## DEVELOPER GUIDE <a href="#guide" id="guide"></a>
 
 * [🍊 Service-Api](guide/service-api.md)
@@ -36,11 +41,6 @@
 * [JS-API](jssdk/js-api/README.md)
   * [Auth api](jssdk/js-api/auth-api.md)
   * [Account api](jssdk/js-api/account-api.md)
-
-## Tutorial
-
-* [UXLINK Task Tutorial](tutorial/uxlink-task-tutorial/README.md)
-  * [UXLINK Task Tutorial on Binance Web3 Wallet](tutorial/uxlink-task-tutorial/uxlink-task-tutorial-on-binance-web3-wallet.md)
 
 ## Troubleshooting
 
